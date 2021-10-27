@@ -1,0 +1,16 @@
+﻿HELCOM_subbasin;RefFISH;RefCHL;Hist_data_source;defGES_TZB[mg_m-3];defGES_MS[µg_ind-1];Per_start[month];Per_end[month];Depth_minLimit[m];Depth_maxLimit[m]
+Åland Sea;1983:1993;1979:1985;;55;10.3;8;8;270;
+Arkona Basin;;;;;;;;;
+Bay of Mecklenburg;;;;;;;;;
+Bornholm Basin;;;;;;;;;
+Bothnian Bay;1979:1991;1979:1987;input;161;23.7;8;8;80;
+Bothnian Sea;1983:1991;1979:1987;input;84;8.5;8;8;80;
+Eastern Gotland Basin;;;;;;;;;
+Gdansk Basin;;;;103;10.2;8;8;;
+Gulf of Finland;1978:1983;1978:1986;;125;8.6;8;8;60;
+Gulf of Riga;1993:2015;1993:1999;input;253;4.7;5;8;30;
+Kattegat;;;;;;;;;
+Kiel Bay;;;;;;;;;
+Northern Baltic Proper;;;;;;;;;
+The Quark;;;;;;;;;
+Western Gotland Basin;1981:1992;1978:1991;COMBINE;220;5.0;6;9;30;35
