@@ -1,0 +1,85 @@
+﻿HELCOM_subbasin;STATN;MSTS_calc;BotDepth_considered[m];Ref
+Åland Sea;F64;1;282;Data table 1 in: https://helcom.fi/media/core%20indicators/Zooplankton-mean-size-and-total-stock-HELCOM-core-indicator-2018.pdf
+Arkona Basin;OMBMPK5;;;
+Arkona Basin;OMBMPK8;;;
+Arkona Basin;OMBMPK4;;;
+Arkona Basin;OMO9;;;
+Arkona Basin;OMMVGB19;;;
+Arkona Basin;OMO11;;;
+Arkona Basin;BY2 ARKONA;;;
+Bay of Mecklenburg;OMBMPM1;;;
+Bay of Mecklenburg;OMBMPM2;;;
+Bay of Mecklenburg;OMO22;;;
+Bay of Mecklenburg;OMO5;;;
+Bornholm Basin;BMPK12;;;
+Bornholm Basin;BMPK2;;;
+Bornholm Basin;BMPK14;;;
+Bornholm Basin;BMPK56;;;
+Bornholm Basin;OMO133;;;
+Bornholm Basin;BY5 BORNHOLMSDJ;;;
+Bornholm Basin;PL-P5C;;;
+Bothnian Bay;F3 / A5;1;94;"""Indicator Evaluation and first assessment: An Example of combined Swedish-Finnish evaluation of MSTS in the Bothnian Bay and Bothnian Sea"" by E.Gorokhova"
+Bothnian Bay;F9 / A13;1;120;"""Indicator Evaluation and first assessment: An Example of combined Swedish-Finnish evaluation of MSTS in the Bothnian Bay and Bothnian Sea"" by E.Gorokhova"
+Bothnian Bay;BO3;1;105;"""Indicator Evaluation and first assessment: An Example of combined Swedish-Finnish evaluation of MSTS in the Bothnian Bay and Bothnian Sea"" by E.Gorokhova"
+Bothnian Bay;F2;1;83;"""Indicator Evaluation and first assessment: An Example of combined Swedish-Finnish evaluation of MSTS in the Bothnian Bay and Bothnian Sea"" by E.Gorokhova"
+Bothnian Sea;C3_North;1;200;"""Indicator Evaluation and first assessment: An Example of combined Swedish-Finnish evaluation of MSTS in the Bothnian Bay and Bothnian Sea"" by E.Gorokhova"
+Bothnian Sea;MS4 / C14;1;84;"""Indicator Evaluation and first assessment: An Example of combined Swedish-Finnish evaluation of MSTS in the Bothnian Bay and Bothnian Sea"" by E.Gorokhova"
+Bothnian Sea;US5B;1;217;"""Indicator Evaluation and first assessment: An Example of combined Swedish-Finnish evaluation of MSTS in the Bothnian Bay and Bothnian Sea"" by E.Gorokhova"
+Bothnian Sea;SR5;1;121;"""Indicator Evaluation and first assessment: An Example of combined Swedish-Finnish evaluation of MSTS in the Bothnian Bay and Bothnian Sea"" by E.Gorokhova"
+Eastern Gotland Basin;BMPK1;;;
+Eastern Gotland Basin;32;;;
+Eastern Gotland Basin;34a;;;
+Eastern Gotland Basin;K22;;;
+Eastern Gotland Basin;K23;;;
+Eastern Gotland Basin;2C2;;;
+Eastern Gotland Basin;20A;;;
+Eastern Gotland Basin;20;;;
+Eastern Gotland Basin;J56;;;
+Eastern Gotland Basin;B-4;;;
+Eastern Gotland Basin;B1;;;
+Eastern Gotland Basin;1;;;
+Eastern Gotland Basin;2;;;
+Eastern Gotland Basin;3;;;
+Eastern Gotland Basin;64A2;;;
+Eastern Gotland Basin;K18;;;
+Eastern Gotland Basin;N-6;;;
+Eastern Gotland Basin;K41;;;
+Eastern Gotland Basin;K32;;;
+Eastern Gotland Basin;46;;;
+Eastern Gotland Basin;BMPJ2;;;
+Eastern Gotland Basin;BMPK51;;;
+Eastern Gotland Basin;BY15 GOTLANDSDJ;;;
+Eastern Gotland Basin;34A;;;
+Eastern Gotland Basin;BY15;;;
+Eastern Gotland Basin;F80;;;
+Gdansk Basin;BMPL10;;;
+Gdansk Basin;BMPL5;;;
+Gdansk Basin;BMPL6;;;
+Gdansk Basin;BMPL1;;;
+Gulf of Finland;LL3A;1;64;Data table 1 in: https://helcom.fi/media/core%20indicators/Zooplankton-mean-size-and-total-stock-HELCOM-core-indicator-2018.pdf
+Gulf of Finland;LL7;1;98;Data table 1 in: https://helcom.fi/media/core%20indicators/Zooplankton-mean-size-and-total-stock-HELCOM-core-indicator-2018.pdf
+Gulf of Riga;107;1;31;"""Indicator evaluation and first assessment: an example of combined Estonian-Latvian evaluation of MSTS in the Gulf of Riga"" by A.Labuce, A.Põllumäe and E.Gorokhova (BLUES project)"
+Gulf of Riga;G1;1;54;"""Indicator evaluation and first assessment: an example of combined Estonian-Latvian evaluation of MSTS in the Gulf of Riga"" by A.Labuce, A.Põllumäe and E.Gorokhova (BLUES project)"
+Gulf of Riga;111;1;40;"""Indicator evaluation and first assessment: an example of combined Estonian-Latvian evaluation of MSTS in the Gulf of Riga"" by A.Labuce, A.Põllumäe and E.Gorokhova (BLUES project)"
+Gulf of Riga;114;1;30;"""Indicator evaluation and first assessment: an example of combined Estonian-Latvian evaluation of MSTS in the Gulf of Riga"" by A.Labuce, A.Põllumäe and E.Gorokhova (BLUES project)"
+Gulf of Riga;125;1;30;"""Indicator evaluation and first assessment: an example of combined Estonian-Latvian evaluation of MSTS in the Gulf of Riga"" by A.Labuce, A.Põllumäe and E.Gorokhova (BLUES project)"
+Gulf of Riga;121;1;54;"""Indicator evaluation and first assessment: an example of combined Estonian-Latvian evaluation of MSTS in the Gulf of Riga"" by A.Labuce, A.Põllumäe and E.Gorokhova (BLUES project)"
+Gulf of Riga;119;1;44;"""Indicator evaluation and first assessment: an example of combined Estonian-Latvian evaluation of MSTS in the Gulf of Riga"" by A.Labuce, A.Põllumäe and E.Gorokhova (BLUES project)"
+Gulf of Riga;142;1;44;"""Indicator evaluation and first assessment: an example of combined Estonian-Latvian evaluation of MSTS in the Gulf of Riga"" by A.Labuce, A.Põllumäe and E.Gorokhova (BLUES project)"
+Gulf of Riga;121A;1;44;"""Indicator evaluation and first assessment: an example of combined Estonian-Latvian evaluation of MSTS in the Gulf of Riga"" by A.Labuce, A.Põllumäe and E.Gorokhova (BLUES project)"
+Gulf of Riga;114A;1;30;"""Indicator evaluation and first assessment: an example of combined Estonian-Latvian evaluation of MSTS in the Gulf of Riga"" by A.Labuce, A.Põllumäe and E.Gorokhova (BLUES project)"
+Kattegat;N14 FALKENBERG;;;
+Kattegat;ANHOLT E;;;
+Kiel Bay;OMBMPN3;;;
+Northern Baltic Proper;H1;;;
+Northern Baltic Proper;23;;;
+Northern Baltic Proper;25;;;
+Northern Baltic Proper;85;;;
+Northern Baltic Proper;H2;;;
+Northern Baltic Proper;LL12;;;
+Northern Baltic Proper;LL17;;;
+The Quark;B7;;;
+The Quark;NB1 / B3;;;
+The Quark;F16;;;
+Western Gotland Basin;B1;1;40;Data table 1 in: https://helcom.fi/media/core%20indicators/Zooplankton-mean-size-and-total-stock-HELCOM-core-indicator-2018.pdf
+Western Gotland Basin;BY31 LANDSORTSDJ;1;30;Data table 1 in: https://helcom.fi/media/core%20indicators/Zooplankton-mean-size-and-total-stock-HELCOM-core-indicator-2018.pdf

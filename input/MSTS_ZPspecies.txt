@@ -1,0 +1,722 @@
+SPECI;SPECI_name;AphiaID;WoRMS_name;AphiaID_accepted;WoRMS_accepted_name;MSTS_use
+155860;Electra crustulenta;0;;0;;0
+46645;Tintinnopsis brandti;0;;0;;0
+58351;Keratella cruciformis eichwaldi;0;;0;;1
+58582;Euchlanis dilatata;0;;0;;1
+684629;Bosmina maritima;0;;0;;1
+83905;Ceriodaphnia;0;;0;;1
+84193;Bythotrephes;0;;0;;0
+85766;Centropages hamatus;0;;0;;1
+86087;Acartia longiremis;0;;0;;1
+88222;Attheyella crassa;0;;0;;0
+90045;Mysis relicta;0;;0;;0
+ACAR TON;Acartia tonsa;0;;0;;1
+BO CO.MA;Bosmina coregoni maritima;0;;0;;1
+CYCLOPSZ;CYCLOPS;0;;0;;1
+HARPACTI;HARPACTICOIDA;0;;0;;1
+POLYCHAE;POLYCHAETA;0;;0;;0
+ACARTIAZ;ACARTIA;0;;0;;1
+FRIT BOR;Fritillaria borealis;0;;0;;1
+KE QU.PL;Keratella quadrata platei;0;;0;;1
+CENTROPZ;CENTROPAGES;0;;0;;1
+59255;Synchaeta;0;;0;;1
+86084;Acartia;0;;0;;1
+86095;Acartia bifilosa;0;;0;;1
+684625;Cercopagis pengoi;0;;0;;0
+83838;Diaphanosoma brachyurum;0;;0;;1
+58349;Keratella cruciformis;0;;0;;1
+85863;Eurytemora affinis;0;;0;;1
+572734;Macrocyclops fuscus;0;;0;;1
+684626;Pleopsis polyphemoides;0;;0;;1
+KE CO.CO;Keratella cochlearis cochlearis;0;;0;;1
+COPEPODA;COPEPODA;0;;0;;1
+Zooplankton;zooplankton - for total net catch/haul data with no taxonomy;0;;0;;0
+64358;Polychaeta;0;;0;;0
+83876;Daphnia galeata;0;;0;;1
+EURYTEMZ;EURYTEMORA;0;;0;;1
+MYTI EDU;Mytilus edulis;0;;0;;0
+PODO INT;Podon intermedius;0;;0;;1
+TEMO LON;Temora longicornis;0;;0;;1
+46653;Tintinnopsis lobiancoi;0;;0;;0
+58362;Keratella cochlearis cochlearis;0;;0;;1
+58355;Keratella quadrata platei;0;;0;;1
+DA CU.CU;Daphnia cucullata cucullata;0;;0;;1
+TINT BRA;Tintinnopsis brandti;0;;0;;0
+46699;Helicostomella subulata;0;;0;;0
+83961;Evadne nordmanni;0;;0;;1
+Synchaeta monopus;Synchaeta monopus;135059;Synchaeta monopus;135059;Synchaeta monopus;1
+83960;Evadne;0;;0;;1
+66917;Pygospio elegans;0;;0;;0
+Nauplii;nauplii with no taxonomy;0;;0;;1
+83938;Bosmina longirostris;0;;0;;1
+83993;Chydorus sphaericus;0;;0;;1
+58438;Brachionus calyciflorus;0;;0;;1
+58396;Notholca;0;;0;;1
+59426;Filinia longiseta;0;;0;;1
+SYNCHAEZ;SYNCHAETA;0;;0;;1
+CENT HAM;Centropages hamatus;0;;0;;1
+ACAR LON;Acartia longiremis;0;;0;;1
+90041;Mysis;0;;0;;0
+83967;Podon polyphemoides;0;;0;;1
+59270;Polyarthra;0;;0;;1
+85874;Temora;0;;0;;1
+86088;Acartia tonsa;0;;0;;1
+59194;Dicranophorus grandis;0;;0;;1
+88805;Oithona similis;0;;0;;1
+PODO POL;Podon polyphemoides;0;;0;;1
+HARM SAR;Harmothoe sarsi;0;;0;;0
+GASTROPO;GASTROPODA;0;;0;;0
+KE CR.EI;Keratella cruciformis eichwaldi;0;;0;;1
+ASPLANCZ;ASPLANCHNA;0;;0;;1
+58361;Keratella cochlearis recurvispina;0;;0;;1
+79118;Bivalvia;0;;0;;0
+83965;Podon intermedius;0;;0;;1
+58360;Keratella cochlearis;0;;0;;1
+Larvae;larvae with no taxonomy;0;;0;;0
+85877;Temora longicornis;0;;0;;1
+88732;Paracyclops fimbriatus;0;;0;;1
+83883;Daphnia cucullata;0;;0;;1
+83837;Diaphanosoma;0;;0;;1
+86624;Laophonte mohammed;0;;0;;0
+58578;Euchlanis;0;;0;;1
+46625;Leprotintinnus;0;;0;;0
+89433;Cirripedia;0;;0;;0
+ACAR BIF;Acartia bifilosa;0;;0;;1
+SYNC MON;Synchaeta monopus;0;;0;;1
+KE CO.RE;Keratella cochlearis recurvispina;0;;0;;1
+KE QU.QU;Keratella quadrata quadrata;0;;0;;1
+PYGO ELE;Pygospio elegans;0;;0;;0
+85862;Eurytemora;0;;0;;1
+89622;Balanus improvisus;0;;0;;0
+86110;Harpacticoida;0;;0;;1
+85323;Paracalanus parvus;0;;0;;1
+83966;Podon leuckartii;0;;0;;1
+86209;Microsetella norvegica;0;;0;;1
+85780;Diaptomus;0;;0;;1
+58352;Keratella quadrata;0;;0;;1
+87053;Nitocra typica;0;;0;;0
+TINT TUB;Tintinnopsis tubulosa;0;;0;;0
+MYSIDAEX;MYSIDAE;0;;0;;0
+EVADNE Z;EVADNE;0;;0;;1
+BIVALVIA;BIVALVIA;0;;0;;0
+PS MI.EL;Pseudocalanus minutus elongatus;0;;0;;1
+LIMN MAC;Limnocalanus macrurus;0;;0;;1
+MYSIS Z;MYSIS;0;;0;;0
+PODO LEU;Podon leuckarti;0;;0;;1
+85775;Limnocalanus macrurus;0;;0;;1
+59256;Synchaeta baltica;0;;0;;1
+88640;Cyclops;0;;0;;1
+58358;Keratella quadrata quadrata;0;;0;;1
+58486;Kellicottia longispina;0;;0;;1
+85761;Centropages;0;;0;;1
+59419;Conochilus unicornis;0;;0;;1
+83875;Daphnia longispina;0;;0;;1
+88731;Paracyclops;0;;0;;1
+59190;Dicranophorus;0;;0;;1
+83873;Daphnia;0;;0;;1
+69459;Gastropoda;0;;0;;0
+CERIODAZ;CERIODAPHNIA;0;;0;;1
+DA CR.CR;Daphnia cristata cristata;0;;0;;1
+EVAD NOR;Evadne nordmanni;0;;0;;1
+SYNC BAL;Synchaeta baltica;0;;0;;1
+684605;Cercopagis;0;;0;;0
+BALA IMP;Balanus improvisus;0;;0;;0
+OITH SIM;Oithona similis;0;;0;;1
+59434;Collotheca;0;;0;;1
+86085;Acartia clausi;0;;0;;1
+85257;Copepoda;0;;0;;1
+59235;Asplanchna;0;;0;;1
+59240;Asplanchna priodonta;0;;0;;1
+85272;Calanus finmarchicus;0;;0;;1
+Bosmina coregoni maritima;Bosmina coregoni maritima;106279;Bosmina (Eubosmina) coregoni maritima;106271;Bosmina (Eubosmina) coregoni;1
+58239;Rotifera;0;;0;;1
+ELEC CRU;Electra crustulenta;0;;0;;0
+159675;Fritillaria borealis;0;;0;;1
+85322;Paracalanus;0;;0;;1
+59425;Filinia;0;;0;;1
+85258;Calanoida;0;;0;;1
+85370;Pseudocalanus elongatus;0;;0;;1
+158650;Chaetognatha;0;;0;;0
+51483;Scyphozoa;0;;0;;0
+53964;Turbellaria;0;;0;;0
+563956;Nemata;0;;0;;0
+57411;Nemertea;0;;0;;0
+83963;Evadne spinifera;0;;0;;1
+85263;Calanus;0;;0;;1
+85734;Metridia;0;;0;;1
+Lamellibranchiata;Lamellibranchiata;234066;Lamellibranchiata;105;Bivalvia;0
+85371;Pseudocalanus minutus;0;;0;;1
+67706;Pectinaria;0;;0;;0
+95599;Decapoda;0;;0;;0
+88573;Corycaeus anglicus;0;;0;;0
+58267;Rotaria;0;;0;;0
+88541;Oncaea borealis;0;;0;;1
+59075;Trichocerca marina;0;;0;;1
+85866;Eurytemora hirundoides;0;;0;;1
+85746;Metridia longa;0;;0;;1
+86096;Acartia discaudata;0;;0;;1
+88813;Oithona nana;0;;0;;1
+155868;Electra pilosa;0;;0;;0
+83964;Podon;0;;0;;1
+85366;Microcalanus;0;;0;;1
+158727;Sagitta;0;;0;;0
+53857;Ctenophora;0;;0;;0
+159669;Oikopleura dioica;0;;0;;1
+66781;Spionidae;0;;0;;0
+89600;Balanus;0;;0;;0
+83952;Eubosmina coregoni;0;;0;;1
+83832;Cladocera;0;;0;;0
+158795;Parasagitta setosa;0;;0;;0
+83677;Crustacea;0;;0;;0
+155462;Phoronis;0;;0;;0
+83936;Bosmina;0;;0;;1
+85767;Centropages typicus;0;;0;;1
+58348;Keratella;0;;0;;1
+88802;Oithona;0;;0;;1
+156732;Entoprocta;0;;0;;0
+85776;Isias;0;;0;;0
+159668;Oikopleura;0;;0;;1
+156857;Echinodermata;0;;0;;0
+48738;Cnidaria;0;;0;;0
+84195;Ostracoda;0;;0;;0
+84500;Cypris;0;;0;;0
+49514;Obelia;0;;0;;0
+159674;Fritillaria;0;;0;;1
+202423;Animalia;0;;0;;0
+46638;Tintinnopsis tubulosa;0;;0;;0
+48741;Anthomedusae;0;;0;;0
+49469;Leptomedusae;0;;0;;0
+51268;Siphonophora;0;;0;;0
+51938;Anthozoa;0;;0;;0
+53901;Lobata;0;;0;;0
+53917;Mnemiopsis leidyi;0;;0;;0
+684675;Eubosmina maritima;0;;0;;1
+76333;Thecosomata;0;;0;;0
+83836;Penilia avirostris;0;;0;;1
+83969;Polyphemus pediculus;0;;0;;0
+85352;Clausocalanus;0;;0;;1
+86020;Candacia;0;;0;;0
+98276;Brachyura;0;;0;;0
+88803;Oithona helgolandica;0;;0;;1
+206925;Branchiostoma lanceolatum;0;;0;;0
+53856;Ctenophora;0;;0;;0
+Balanus;Balanus;106122;Balanus;106122;Balanus;0
+Podon;Podon;106269;Podon;106269;Podon;1
+95108;Hyperiidae;0;;0;;0
+Copepoda;Copepoda;1080;Copepoda;1080;Copepoda;1
+86208;Microsetella;0;;0;;1
+13758;Radiospermum;0;;0;;0
+86127;Longipedia;0;;0;;0
+159665;Larvacea;0;;0;;1
+155457;Phoronidae;0;;0;;0
+59074;Trichocerca;0;;0;;1
+46743;Tintinnidae;0;;0;;0
+95496;Euphausiacea;0;;0;;0
+85369;Pseudocalanus;0;;0;;1
+88570;Corycaeidae;0;;0;;0
+155470;Ectoprocta;0;;0;;0
+610015;Clausocalanidae;0;;0;;1
+88530;Cyclopoida;0;;0;;1
+88540;Oncaea;0;;0;;1
+158852;Chordata;0;;0;;0
+88571;Corycaeus;0;;0;;0
+BRYOZOA;BRYOZOA;0;;0;;0
+CYCLOPOI;CYCLOPOIDA;0;;0;;1
+HARMOTHZ;HARMOTHOE;0;;0;;0
+KERA CRU;Keratella cruciformis;0;;0;;1
+POLYCHAETA;Polychaeta;883;Polychaeta;883;Polychaeta;0
+SAGI SET;Sagitta setosa;0;;0;;0
+BOSM COR;Bosmina coregoni;0;;0;;1
+TEMORA Z;TEMORA;0;;0;;1
+TINT CAM;Tintinnopsis campanula;0;;0;;0
+CERI PUL;Ceriodaphnia pulchella;0;;0;;1
+MYSI REL;Mysis relicta;0;;0;;0
+CIRRIPED;CIRRIPEDIA;0;;0;;0
+SYNCHAEX;SYNCHAETIDAE;0;;0;;1
+SYNC FEN;Synchaeta fennica;0;;0;;1
+BOSMINAZ;BOSMINA;0;;0;;1
+PARA PAR;Paradoxornis paradoxus;0;;0;;0
+ANNELIDA;ANNELIDA;0;;0;;0
+TURBELLA;TURBELLARIA;0;;0;;0
+KERA QUA;Keratella quadrata;0;;0;;1
+CYPHONAZ;CYPHONAUTES;0;;0;;0
+ACAR;Acar;206083;Acar;206083;Acar;0
+EUCHLANZ;EUCHLANIS;0;;0;;1
+BYTHOTRZ;BYTHOTREPES;0;;0;;0
+PSEU MIN;Pseudocalanus minutus;0;;0;;1
+BALANUSZ;BALANUS;0;;0;;0
+DAPHNIAZ;DAPHNIA;0;;0;;1
+POLYARTZ;POLYARTEMIA;0;;0;;0
+ROTATORI;ROTATORIA;0;;0;;1
+SAGITTAZ;SAGITTARIUS;0;;0;;0
+ACAR DIS;Acartia discaudata;0;;0;;1
+PLEU PIL;Pleurobrachia pileus;0;;0;;0
+KERATELZ;KERATELLA;0;;0;;1
+MESO LEU;Mesocyclops leuckarti;0;;0;;1
+HYDROIDA;HYDROIDA;0;;0;;0
+NOTHOLCZ;NOTHOLCA;0;;0;;1
+MESO RAP;Mesochra rapiens;0;;0;;1
+EURY AFF;Eurytemora affinis;0;;0;;1
+BRACHIOZ;BRACHIONES;0;;0;;1
+BO CO.CO;Bosmina coregoni coregoni;0;;0;;1
+LIMN GRI;Limnodromus griseus;0;;0;;0
+OSTRACOD;OSTRACODA;0;;0;;0
+HARPACTX;HARPACTICIDAE;0;;0;;1
+ONCAEA Z;ONCAEA;0;;0;;1
+EVAD SPI;Evadne spinifera;0;;0;;1
+GASTROSZ;GASTROSACCUS;0;;0;;0
+OIKO DIO;Oikopleura dioica;0;;0;;1
+PARACALZ;PARACALANUS;0;;0;;1
+EURY HOI;Eurytemora hirundoides;0;;0;;1
+HARPACTZ;HARPACTES;0;;0;;0
+PSEU ELO;Pseudocalanus elongatus;0;;0;;1
+PODON Z;PODON;0;;0;;1
+BYTH LON;Bythotrepes longimanus;0;;0;;0
+CENT TYP;Centropages typicus;0;;0;;1
+CHAETOSZ;CHAETOPS;0;;0;;0
+OITH ATL;Oithona atlantica;0;;0;;1
+CALA FIN;Calanus finmarchicus;0;;0;;1
+CRAN CRA;Crangon crangon;0;;0;;0
+ECHINODE;ECHINODERMATA;0;;0;;0
+OIKOPLEZ;OIKOPLEURA;0;;0;;1
+LARVACEA;LARVACEA;0;;0;;1
+TINTNOPZ;TINTINNOPSIS;0;;0;;0
+ACAR CLA;Acartia clausi;0;;0;;1
+LIMNOCAZ;LIMNOCALANUS;0;;0;;1
+CHAETOGN;CHAETOGNATHA;0;;0;;0
+FRITILLZ;FRITILLARIA;0;;0;;1
+POLYDORZ;POLYDORA;0;;0;;0
+VERR STR;Verruca stroemia;0;;0;;0
+CALANOID;CALANOIDA;0;;0;;1
+CNIDARIA;CNIDARIA;0;;0;;0
+MICR PUS;Micropsitta pusio;0;;0;;0
+METR LUC;Metridia lucens;0;;0;;1
+CENTROPZ;CENTROPUS;0;;0;;0
+PSEUCALZ;PSEUDOCALANUS;0;;0;;1
+572748;Nitokra typica;0;;0;;1
+58434;Brachionus;0;;0;;1
+83972;Leptodora kindtii;0;;0;;0
+Bosmina maritima;Bosmina maritima;157607;Bosmina maritima;106271;Bosmina (Eubosmina) coregoni;1
+Evadne anonyx;Evadne anonyx;234084;Evadne anonyx;234084;Evadne anonyx;1
+59167;Ascomorpha;0;;0;;1
+83950;Eubosmina longispina;0;;0;;1
+Eudiaptomus graciloides;Eudiaptomus graciloides;358605;Eudiaptomus graciloides;358605;Eudiaptomus graciloides;1
+Acartia;Acartia;104108;Acartia;104108;Acartia;1
+Acartia longiremis;Acartia longiremis;104257;Acartia longiremis;346037;Acartia (Acartiura) longiremis;1
+Acartia tonsa;Acartia tonsa;104262;Acartia tonsa;345943;Acartia (Acanthacartia) tonsa;1
+Asplanchna priodonta;Asplanchna priodonta;134977;Asplanchna priodonta;134977;Asplanchna priodonta;1
+Bosmina;Bosmina;106265;Bosmina;106265;Bosmina;1
+Brachionus;Brachionus;134937;Brachionus;134937;Brachionus;1
+Brachionus calyciflorus;Brachionus calyciflorus;134980;Brachionus calyciflorus;134980;Brachionus calyciflorus;1
+Calanoida;Calanoida;1100;Calanoida;1100;Calanoida;1
+Centropages;Centropages;104159;Centropages;104159;Centropages;1
+Centropages hamatus;Centropages hamatus;104496;Centropages hamatus;104496;Centropages hamatus;1
+Chydorus sphaericus;Chydorus sphaericus;148406;Chydorus sphaericus;148406;Chydorus sphaericus;1
+Conochilus unicornis;Conochilus unicornis;134966;Conochilus unicornis;134966;Conochilus unicornis;1
+Cyclopoida;Cyclopoida;1101;Cyclopoida;1101;Cyclopoida;1
+Cyclops;Cyclops;149782;Cyclops;149782;Cyclops;1
+Daphnia;Daphnia;771485;;0;;1
+Daphnia galeata;Daphnia galeata;717575;Daphnia galeata;717575;Daphnia galeata;1
+Euchlanis dilatata;Euchlanis dilatata;134988;Euchlanis dilatata;134988;Euchlanis dilatata;1
+Eudiaptomus gracilis;Eudiaptomus gracilis;149690;Eudiaptomus gracilis;149690;Eudiaptomus gracilis;1
+Eurytemora affinis;Eurytemora affinis;104872;Eurytemora affinis;1416974;Eurytemora affinis affinis;1
+Evadne;Evadne;106267;Evadne;106267;Evadne;1
+Evadne nordmanni;Evadne nordmanni;106273;Evadne nordmanni;106273;Evadne nordmanni;1
+Kellicottia longispina;Kellicottia longispina;134989;Kellicottia longispina;134989;Kellicottia longispina;1
+Keratella;Keratella;134941;Keratella;134941;Keratella;1
+Keratella cochlearis;Keratella cochlearis;134990;Keratella cochlearis;134990;Keratella cochlearis;1
+Keratella cruciformis;Keratella cruciformis;134991;Keratella cruciformis;134991;Keratella cruciformis;1
+Keratella quadrata;Keratella quadrata;134992;Keratella quadrata;134992;Keratella quadrata;1
+Pleopsis polyphemoides;Pleopsis polyphemoides;106275;Pleopsis polyphemoides;247981;Pleopis polyphemoides;1
+Podon leuckartii;Podon leuckartii;106277;Podon leuckartii;106277;Podon leuckartii;1
+Synchaeta;Synchaeta;134958;Synchaeta;134958;Synchaeta;1
+Temora;Temora;104241;Temora;104241;Temora;1
+Temora longicornis;Temora longicornis;104878;Temora longicornis;104878;Temora longicornis;1
+Acartia (Acanthacartia) bifilosa inermis;Acartia (Acanthacartia) bifilosa inermis;154359;Acartia (Acanthacartia) bifilosa inermis;345919;Acartia (Acanthacartia) bifilosa;1
+Acartia bifilosa;Acartia bifilosa;104249;Acartia bifilosa;345919;Acartia (Acanthacartia) bifilosa;1
+Bosmina (Bosmina) longirostris;Bosmina (Bosmina) longirostris;148379;Bosmina (Bosmina) longirostris;148379;Bosmina (Bosmina) longirostris;1
+Chydorus;Chydorus;148377;Chydorus;148377;Chydorus;1
+GASTROPODA;Gastropoda;101;Gastropoda;101;Gastropoda;0
+HARPACTICOIDA;Harpacticoida;1102;Harpacticoida;1102;Harpacticoida;1
+NEMATODA;Nematoda;799;Nematoda;799;Nematoda;0
+Oithona similis;Oithona similis;106656;Oithona similis;106656;Oithona similis;1
+PISCES;Pisces;11676;Pisces;11676;Pisces;0
+Pseudocalanus minutus;Pseudocalanus minutus;104517;Pseudocalanus minutus;104517;Pseudocalanus minutus;1
+Mesocyclops leuckarti;Mesocyclops leuckarti;234061;Mesocyclops leuckarti;730086;Mesocyclops leuckarti leuckarti;1
+Fritillaria;Fritillaria;103358;Fritillaria;103358;Fritillaria;1
+MYSIDAE;Mysidae;119822;Mysidae;119822;Mysidae;0
+Diaphanosoma brachyurum;Diaphanosoma brachyurum;234063;Diaphanosoma brachyurum;234063;Diaphanosoma brachyurum;1
+Limnocalanus grimaldii;Limnocalanus grimaldii;234069;Limnocalanus grimaldii;487769;Limnocalanus grimaldii grimaldii;1
+Paracalanus parvus;Paracalanus parvus;104685;Paracalanus parvus;745865;Paracalanus parvus parvus;1
+Podon intermedius;Podon intermedius;106276;Podon intermedius;106276;Podon intermedius;1
+Synchaeta curvata;Synchaeta curvata;135050;Synchaeta curvata;135050;Synchaeta curvata;1
+Nemertea;Nemertea;152391;Nemertea;152391;Nemertea;0
+Bivalvia;Bivalvia;105;Bivalvia;105;Bivalvia;0
+Mysida;Mysida;149668;Mysida;149668;Mysida;0
+OSTRACODA;Ostracoda;1078;Ostracoda;1078;Ostracoda;0
+Megacyclops viridis;Megacyclops viridis;157736;Megacyclops viridis;729868;Megacyclops viridis viridis;1
+Amphibalanus improvisus;Amphibalanus improvisus;421139;Amphibalanus improvisus;421139;Amphibalanus improvisus;0
+Fritillaria borealis;Fritillaria borealis;103375;Fritillaria borealis;103375;Fritillaria borealis;1
+Macrobrachium sintangense;Macrobrachium sintangense;587551;Macrobrachium sintangense;587551;Macrobrachium sintangense;0
+Cercopagis (Cercopagis) pengoi;Cercopagis (Cercopagis) pengoi;234025;Cercopagis (Cercopagis) pengoi;234025;Cercopagis (Cercopagis) pengoi;0
+Synchaeta littoralis;Synchaeta littoralis;135057;Synchaeta littoralis;135057;Synchaeta littoralis;1
+Rotifera;Rotifera;14260;Rotifera;14260;Rotifera;1
+HYDROZOA;Hydrozoa;1337;Hydrozoa;1337;Hydrozoa;0
+Daphnia longispina;Daphnia longispina;148373;Daphnia longispina;148373;Daphnia longispina;1
+Bosmina (Eubosmina) coregoni;Bosmina (Eubosmina) coregoni;106271;Bosmina (Eubosmina) coregoni;106271;Bosmina (Eubosmina) coregoni;1
+Leptodora kindtii;Leptodora kindtii;247980;Leptodora kindtii;247980;Leptodora kindtii;0
+Oikopleura (Vexillaria) dioica;Oikopleura (Vexillaria) dioica;103407;Oikopleura (Vexillaria) dioica;103407;Oikopleura (Vexillaria) dioica;1
+Notholca;Notholca;134944;Notholca;134944;Notholca;1
+Hyperiidae;Hyperiidae;101417;Hyperiidae;101417;Hyperiidae;0
+Rhithropanopeus harrisii;Rhithropanopeus harrisii;107414;Rhithropanopeus harrisii;107414;Rhithropanopeus harrisii;0
+Synchaeta baltica;Synchaeta baltica;135047;Synchaeta baltica;135047;Synchaeta baltica;1
+Cyclopidae;Cyclopidae;106413;Cyclopidae;106413;Cyclopidae;1
+Pseudocalanus acuspes;Pseudocalanus acuspes;104514;Pseudocalanus acuspes;104514;Pseudocalanus acuspes;1
+Ceriodaphnia;Ceriodaphnia;148376;Ceriodaphnia;148376;Ceriodaphnia;1
+Aurelia aurita;Aurelia aurita;135306;Aurelia aurita;135306;Aurelia aurita;0
+Pleopis polyphemoides;Pleopis polyphemoides;247981;Pleopis polyphemoides;247981;Pleopis polyphemoides;1
+Gammarus;Gammarus;101537;Gammarus;101537;Gammarus;0
+Oligochaeta;Oligochaeta;2036;Oligochaeta;2036;Oligochaeta;0
+Decapoda;Decapoda;1130;Decapoda;1130;Decapoda;0
+Limnocalanus macrurus macrurus;Limnocalanus macrurus macrurus;487770;Limnocalanus macrurus macrurus;487770;Limnocalanus macrurus macrurus;1
+Mertensia ovum;Mertensia ovum;106377;Mertensia ovum;106377;Mertensia ovum;0
+Crangon;Crangon;107007;Crangon;107007;Crangon;0
+Ctenophora;Ctenophora;1248;Ctenophora;1248;Ctenophora;0
+Bythotrephes cederstroemii;Bythotrephes cederstroemii;594758;Bythotrephes cederstroemii;412863;Bythotrephes longimanus;0
+Podon polyphemoides;Podon polyphemoides;159919;Podon polyphemoides;247981;Pleopis polyphemoides;1
+Polyarthra dolichoptera;Polyarthra dolichoptera;135042;Polyarthra dolichoptera;135042;Polyarthra dolichoptera;1
+Chironomidae;Chironomidae;118100;Chironomidae;118100;Chironomidae;0
+Daphnia cucullata;Daphnia cucullata;148371;Daphnia cucullata;148371;Daphnia cucullata;1
+Bythotrephes longimanus;Bythotrephes longimanus;412863;Bythotrephes longimanus;412863;Bythotrephes longimanus;0
+Polyphemus pediculus;Polyphemus pediculus;409915;Polyphemus pediculus;409915;Polyphemus pediculus;0
+Ascomorpha ecaudis;Ascomorpha ecaudis;369181;Ascomorpha ecaudis;369181;Ascomorpha ecaudis;1
+Brachionus angularis;Brachionus angularis;134979;Brachionus angularis;134979;Brachionus angularis;1
+Cladocera;Cladocera;1076;Cladocera;155670;Diplostraca;0
+Eubosmina coregoni;Eubosmina coregoni;594773;Eubosmina coregoni;106271;Bosmina (Eubosmina) coregoni;1
+Polyarthra;Polyarthra;134957;Polyarthra;134957;Polyarthra;1
+Rotaria;Rotaria;134927;Rotaria;134927;Rotaria;1
+Rotaria rotatoria;Rotaria rotatoria;431954;Rotaria rotatoria;431954;Rotaria rotatoria;1
+Trichocerca;Trichocerca;134959;Trichocerca;134959;Trichocerca;1
+1080;Copepoda;1080;Copepoda;1080;Copepoda;1
+106215;Balanus crenatus;106215;Balanus crenatus;106215;Balanus crenatus;0
+106485;Oithona;106485;Oithona;106485;Oithona;1
+883;Polychaeta;883;Polychaeta;883;Polychaeta;0
+22496;Nereididae;22496;Nereididae;22496;Nereididae;0
+345943;Acartia (Acanthacartia) tonsa;345943;Acartia (Acanthacartia) tonsa;345943;Acartia (Acanthacartia) tonsa;1
+104464;Calanus finmarchicus;104464;Calanus finmarchicus;104464;Calanus finmarchicus;1
+1076;Cladocera;1076;Cladocera;155670;Diplostraca;0
+574582;Philine quadripartita;574582;Philine quadripartita;574582;Philine quadripartita;0
+131141;Polydora ciliata;131141;Polydora ciliata;131141;Polydora ciliata;0
+1248;Ctenophora;1248;Ctenophora;1248;Ctenophora;0
+104190;Metridia;104190;Metridia;104190;Metridia;1
+111351;Conopeum reticulum;111351;Conopeum reticulum;111351;Conopeum reticulum;0
+110708;Thysanoessa inermis;110708;Thysanoessa inermis;110708;Thysanoessa inermis;0
+106642;Oithona atlantica;106642;Oithona atlantica;106642;Oithona atlantica;1
+131117;Dipolydora coeca;131117;Dipolydora coeca;131117;Dipolydora coeca;0
+123080;Asteroidea;123080;Asteroidea;123080;Asteroidea;0
+134969;Filinia longiseta;134969;Filinia longiseta;134969;Filinia longiseta;1
+103488;Ciona;103488;Ciona;103488;Ciona;0
+129623;Scolelepis;129623;Scolelepis;129623;Scolelepis;0
+129672;Procerastea;129672;Procerastea;129672;Procerastea;0
+124319;Psammechinus miliaris;124319;Psammechinus miliaris;124319;Psammechinus miliaris;0
+104878;Temora longicornis;104878;Temora longicornis;104878;Temora longicornis;1
+106273;Evadne nordmanni;106273;Evadne nordmanni;106273;Evadne nordmanni;1
+11676;Pisces;11676;Pisces;11676;Pisces;0
+101;Gastropoda;101;Gastropoda;101;Gastropoda;0
+106269;Podon;106269;Podon;106269;Podon;1
+183533;Tintinnidae;183533;Tintinnidae;183533;Tintinnidae;0
+106257;Verruca stroemia;106257;Verruca stroemia;106257;Verruca stroemia;0
+104466;Calanus helgolandicus;104466;Calanus helgolandicus;104466;Calanus helgolandicus;1
+134991;Keratella cruciformis;134991;Keratella cruciformis;134991;Keratella cruciformis;1
+104513;Microcalanus pygmaeus;104513;Microcalanus pygmaeus;104513;Microcalanus pygmaeus;1
+1484;Halacaridae;1484;Halacaridae;1484;Halacaridae;0
+107345;Macropodia rostrata;107345;Macropodia rostrata;107345;Macropodia rostrata;0
+134990;Keratella cochlearis;134990;Keratella cochlearis;134990;Keratella cochlearis;1
+931;Phyllodocidae;931;Phyllodocidae;931;Phyllodocidae;0
+234063;Diaphanosoma brachyurum;234063;Diaphanosoma brachyurum;234063;Diaphanosoma brachyurum;1
+131568;Tomopteris septentrionalis;131568;Tomopteris septentrionalis;131568;Tomopteris septentrionalis;0
+152231;Autolytinae;152231;Autolytinae;152231;Autolytinae;0
+124913;Ophiura albida;124913;Ophiura albida;124913;Ophiura albida;0
+135053;Synchaeta grimpei;135053;Synchaeta grimpei;135053;Synchaeta grimpei;1
+913;Spionidae;913;Spionidae;913;Spionidae;0
+104165;Pseudocalanus;104165;Pseudocalanus;104165;Pseudocalanus;1
+745865;Paracalanus parvus parvus;745865;Paracalanus parvus parvus;745865;Paracalanus parvus parvus;1
+882;Annelida;882;Annelida;882;Annelida;0
+103407;Oikopleura (Vexillaria) dioica;103407;Oikopleura (Vexillaria) dioica;103407;Oikopleura (Vexillaria) dioica;1
+794;Turbellaria;794;Turbellaria;0;;0
+146142;Bryozoa;146142;Bryozoa;146142;Bryozoa;0
+107552;Crangon crangon;107552;Crangon crangon;107552;Crangon crangon;0
+105410;Sagitta;105410;Sagitta;105410;Sagitta;0
+117034;Obelia;117034;Obelia;117034;Obelia;0
+104872;Eurytemora affinis;104872;Eurytemora affinis;1416974;Eurytemora affinis affinis;1
+345919;Acartia (Acanthacartia) bifilosa;345919;Acartia (Acanthacartia) bifilosa;345919;Acartia (Acanthacartia) bifilosa;1
+129614;Malacoceros;129614;Malacoceros;129614;Malacoceros;0
+135306;Aurelia aurita;135306;Aurelia aurita;135306;Aurelia aurita;0
+131159;Prionospio malmgreni;131159;Prionospio malmgreni;131159;Prionospio malmgreni;0
+125988;Gobius;125988;Gobius;125988;Gobius;0
+104474;Candacia armata;104474;Candacia armata;104474;Candacia armata;1
+107381;Carcinus maenas;107381;Carcinus maenas;107381;Carcinus maenas;0
+111411;Membranipora membranacea;111411;Membranipora membranacea;111411;Membranipora membranacea;0
+106122;Balanus;106122;Balanus;106122;Balanus;0
+14260;Rotifera;14260;Rotifera;14260;Rotifera;1
+129437;Pectinaria;129437;Pectinaria;129437;Pectinaria;0
+104196;Paracalanus;104196;Paracalanus;104196;Paracalanus;1
+104517;Pseudocalanus minutus;104517;Pseudocalanus minutus;104517;Pseudocalanus minutus;1
+11;Ciliophora;11;Ciliophora;11;Ciliophora;0
+134982;Brachionus plicatilis;134982;Brachionus plicatilis;134982;Brachionus plicatilis;1
+104240;Eurytemora;104240;Eurytemora;104240;Eurytemora;1
+106437;Cyclopina;106437;Cyclopina;106437;Cyclopina;1
+104499;Centropages typicus;104499;Centropages typicus;104499;Centropages typicus;1
+103375;Fritillaria borealis;103375;Fritillaria borealis;103375;Fritillaria borealis;1
+115351;Tigriopus;115351;Tigriopus;115351;Tigriopus;1
+106210;Semibalanus balanoides;106210;Semibalanus balanoides;106210;Semibalanus balanoides;0
+419295;Notholca bipalium;419295;Notholca bipalium;419295;Notholca bipalium;1
+104515;Pseudocalanus elongatus;104515;Pseudocalanus elongatus;104515;Pseudocalanus elongatus;1
+111352;Conopeum seurati;111352;Conopeum seurati;111352;Conopeum seurati;0
+111354;Electra monostachys;111354;Electra monostachys;111354;Electra monostachys;0
+151628;Peringia ulvae;151628;Peringia ulvae;151628;Peringia ulvae;0
+134958;Synchaeta;134958;Synchaeta;134958;Synchaeta;1
+106656;Oithona similis;106656;Oithona similis;106656;Oithona similis;1
+1101;Cyclopoida;1101;Cyclopoida;1101;Cyclopoida;1
+117070;Sarsia;117070;Sarsia;117070;Sarsia;0
+150922;Nematocera;150922;Nematocera;150922;Nematocera;0
+247981;Pleopis polyphaemoides;247981;Pleopis polyphemoides;247981;Pleopis polyphemoides;1
+130749;Gattyana cirrhosa;130749;Gattyana cirrhosa;130749;Gattyana cirrhosa;0
+140480;Mytilus edulis;140480;Mytilus edulis;140480;Mytilus edulis;0
+106277;Podon leuckartii;106277;Podon leuckartii;106277;Podon leuckartii;1
+106926;Macropipus;106926;Macropipus;106926;Macropipus;0
+140262;Littorina littorea;140262;Littorina littorea;140262;Littorina littorea;0
+1066;Crustacea;1066;Crustacea;1066;Crustacea;0
+131143;Polydora cornuta;131143;Polydora cornuta;131143;Polydora cornuta;0
+234850;Alitta succinea;234850;Alitta succinea;234850;Alitta succinea;0
+104159;Centropages;104159;Centropages;104159;Centropages;1
+106274;Evadne spinifera;106274;Evadne spinifera;106274;Evadne spinifera;1
+134996;Notholca acuminata;134996;Notholca acuminata;134996;Notholca acuminata;1
+123082;Echinoidea;123082;Echinoidea;123082;Echinoidea;0
+134805;Sacculina carcini;134805;Sacculina carcini;134805;Sacculina carcini;0
+1806;Echinodermata;1806;Echinodermata;1806;Echinodermata;0
+130356;Nephtys ciliata;130356;Nephtys ciliata;130356;Nephtys ciliata;0
+117345;Lizzia blondina;117345;Lizzia blondina;117345;Lizzia blondina;0
+127139;Limanda limanda;127139;Limanda limanda;127139;Limanda limanda;0
+467577;Einhornia crustulenta;467577;Einhornia crustulenta;467577;Einhornia crustulenta;0
+115403;Longipedia;115403;Longipedia;115403;Longipedia;1
+346037;Acartia (Acartiura) longiremis;346037;Acartia (Acartiura) longiremis;346037;Acartia (Acartiura) longiremis;1
+105;Bivalvia;105;Bivalvia;105;Bivalvia;0
+799;Nematoda;799;Nematoda;799;Nematoda;0
+129619;Polydora;129619;Polydora;129619;Polydora;0
+939;Polynoidae;939;Polynoidae;939;Polynoidae;0
+135069;Trichocerca marina;135069;Trichocerca marina;135069;Trichocerca marina;1
+1267;Cnidaria;1267;Cnidaria;1267;Cnidaria;0
+334506;Phyllodoce groenlandica;334506;Phyllodoce groenlandica;334506;Phyllodoce groenlandica;0
+130185;Nereimyra punctata;130185;Nereimyra punctata;130185;Nereimyra punctata;0
+106271;Bosmina (Eubosmina) coregoni;106271;Bosmina (Eubosmina) coregoni;106271;Bosmina (Eubosmina) coregoni;1
+107032;Palaemon;107032;Palaemon;107032;Palaemon;0
+105440;Parasagitta elegans;105440;Parasagitta elegans;105440;Parasagitta elegans;0
+119780;Monstrilla;119780;Monstrilla;119780;Monstrilla;1
+104906;Branchiostoma lanceolatum;104906;Branchiostoma lanceolatum;104906;Branchiostoma lanceolatum;0
+130404;Nereis pelagica;130404;Nereis pelagica;130404;Nereis pelagica;0
+134999;Notholca striata;134999;Notholca striata;134999;Notholca striata;1
+1078;Ostracoda;1078;Ostracoda;1078;Ostracoda;0
+104496;Centropages hamatus;104496;Centropages hamatus;104496;Centropages hamatus;1
+149755;Acartia (Acartiura) clausi;149755;Acartia (Acartiura) clausi;149755;Acartia (Acartiura) clausi;1
+421139;Amphibalanus improvisus;421139;Amphibalanus improvisus;421139;Amphibalanus improvisus;0
+104108;Acartia;104108;Acartia;104108;Acartia;1
+105443;Parasagitta setosa;105443;Parasagitta setosa;105443;Parasagitta setosa;0
+106272;Penilia avirostris;106272;Penilia avirostris;106272;Penilia avirostris;1
+107276;Cancer pagurus;107276;Cancer pagurus;107276;Cancer pagurus;0
+130801;Lepidonotus squamatus;130801;Lepidonotus squamatus;130801;Lepidonotus squamatus;0
+155727;Bopyroidea;155727;Bopyroidea;155727;Bopyroidea;0
+106213;Balanus balanus;106213;Balanus balanus;106213;Balanus balanus;0
+128690;Oncaea;128690;Oncaea;128690;Oncaea;1
+1839;Ascidiacea;1839;Ascidiacea;1839;Ascidiacea;0
+134959;Trichocerca;134959;Trichocerca;134959;Trichocerca;1
+234125;Acartia (Acartiura) discaudata;234125;Acartia (Acartiura) discaudata;234125;Acartia (Acartiura) discaudata;1
+107018;Acanthephyra;107018;Acanthephyra;107018;Acanthephyra;0
+104157;Candacia;104157;Candacia;104157;Candacia;1
+129491;Harmothoe;129491;Harmothoe;129491;Harmothoe;0
+128549;Phoronis muelleri;128549;Phoronis muelleri;128549;Phoronis muelleri;0
+131170;Pygospio elegans;131170;Pygospio elegans;131170;Pygospio elegans;0
+125131;Ophiothrix fragilis;125131;Ophiothrix fragilis;125131;Ophiothrix fragilis;0
+125537;Gobiidae;125537;Gobiidae;125537;Gobiidae;0
+104633;Metridia lucens;104633;Metridia lucens;850801;Metridia lucens lucens;1
+104152;Calanus;104152;Calanus;104152;Calanus;1
+107232;Pagurus bernhardus;107232;Pagurus bernhardus;107232;Pagurus bernhardus;0
+1102;Harpacticoida;1102;Harpacticoida;1102;Harpacticoida;1
+111355;Electra pilosa;111355;Electra pilosa;111355;Electra pilosa;0
+106276;Podon intermedius;106276;Podon intermedius;106276;Podon intermedius;1
+106267;Evadne;106267;Evadne;106267;Evadne;1
+130616;Eteone longa;130616;Eteone longa;130616;Eteone longa;0
+128805;Ditrichocorycaeus anglicus;128805;Ditrichocorycaeus anglicus;128805;Ditrichocorycaeus anglicus;1
+123084;Ophiuroidea;123084;Ophiuroidea;123084;Ophiuroidea;0
+126425;Sprattus sprattus;126425;Sprattus sprattus;126425;Sprattus sprattus;0
+134979;Brachionus angularis;134979;Brachionus angularis;134979;Brachionus angularis;1
+130770;Harmothoe impar;130770;Harmothoe impar;130770;Harmothoe impar;0
+129625;Spio;129625;Spio;129625;Spio;0
+106651;Oithona nana;106651;Oithona nana;106651;Oithona nana;1
+117848;Rathkea octopunctata;117848;Rathkea octopunctata;117848;Rathkea octopunctata;0
+130271;Magelona mirabilis;130271;Magelona mirabilis;130271;Magelona mirabilis;0
+131576;Trochochaeta multisetosa;131576;Trochochaeta multisetosa;131576;Trochochaeta multisetosa;1
+126928;Pomatoschistus minutus;126928;Pomatoschistus minutus;126928;Pomatoschistus minutus;0
+134992;Keratella quadrata;134992;Keratella quadrata;134992;Keratella quadrata;1
+104164;Microcalanus;104164;Microcalanus;104164;Microcalanus;1
+129671;Proceraea;129671;Proceraea;129671;Proceraea;0
+107613;Palaemon adspersus;107613;Palaemon adspersus;107613;Palaemon adspersus;0
+Alona quadrangularis;Alona quadrangularis;247976;Alona quadrangularis;247976;Alona quadrangularis;1
+Calanus finmarchicus;Calanus finmarchicus;104464;Calanus finmarchicus;104464;Calanus finmarchicus;1
+Appendicularia;Appendicularia;146421;Appendicularia;146421;Appendicularia;1
+Bosmina (Eubosmina) coregoni maritima;Bosmina (Eubosmina) coregoni maritima;106279;Bosmina (Eubosmina) coregoni maritima;106271;Bosmina (Eubosmina) coregoni;1
+Diaptomus;Diaptomus;247924;Diaptomus;247924;Diaptomus;1
+Filinia longiseta;Filinia longiseta;134969;Filinia longiseta;134969;Filinia longiseta;1
+Macrocyclops;Macrocyclops;347439;Macrocyclops;347439;Macrocyclops;1
+Notholca acuminata;Notholca acuminata;134996;Notholca acuminata;134996;Notholca acuminata;1
+Trichocerca capucina;Trichocerca capucina;135068;Trichocerca capucina;135068;Trichocerca capucina;1
+Actinopteri;Actinopteri;843664;Actinopteri;843664;Actinopteri;0
+Helicostomella subulata;Helicostomella subulata;240437;Helicostomella subulata;240437;Helicostomella subulata;0
+Limnocalanus macrurus;Limnocalanus macrurus;157674;Limnocalanus macrurus;487770;Limnocalanus macrurus macrurus;1
+Neomysis integer;Neomysis integer;120136;Neomysis integer;120136;Neomysis integer;0
+Podonidae;Podonidae;106264;Podonidae;106264;Podonidae;1
+Tintinnopsis;Tintinnopsis;163780;Tintinnopsis;163780;Tintinnopsis;0
+Tintinnopsis lobiancoi;Tintinnopsis lobiancoi;163919;Tintinnopsis lobiancoi;163919;Tintinnopsis lobiancoi;0
+Zoothamnium;Zoothamnium;162403;Zoothamnium;162403;Zoothamnium;0
+Keratella quadrata platei;Keratella quadrata platei;378585;Keratella quadrata platei;378585;Keratella quadrata platei;1
+Eurytemora;Eurytemora;104240;Eurytemora;104240;Eurytemora;1
+Mytilus trossulus;Mytilus trossulus;140482;Mytilus trossulus;140482;Mytilus trossulus;0
+Pseudocalanus elongatus;Pseudocalanus elongatus;104515;Pseudocalanus elongatus;104515;Pseudocalanus elongatus;1
+BYLGIDES SARSI;Bylgides sarsi;130735;Bylgides sarsi;130735;Bylgides sarsi;0
+Mysis mixta;Mysis mixta;120113;Mysis mixta;120113;Mysis mixta;0
+Sessilida;Sessilida;414711;Sessilida;414711;Sessilida;0
+Ciliophora;Ciliophora;11;Ciliophora;11;Ciliophora;0
+Palaemon elegans;Palaemon elegans;107614;Palaemon elegans;107614;Palaemon elegans;0
+Bythotrephes;Bythotrephes;234087;Bythotrephes;234087;Bythotrephes;0
+Keratella cruciformis eichwaldi;Keratella cruciformis eichwaldi;234065;Keratella cruciformis eichwaldi;148320;Keratella eichwaldi;1
+Mysis;Mysis;119886;Mysis;119886;Mysis;0
+Pontoporeia femorata;Pontoporeia femorata;103079;Pontoporeia femorata;103079;Pontoporeia femorata;0
+Vorticella;Vorticella;163573;Vorticella;163573;Vorticella;0
+Asplanchna;Asplanchna;134935;Asplanchna;134935;Asplanchna;1
+Daphnia cristata cristata;Daphnia cristata cristata;378583;Daphnia cristata cristata;378583;Daphnia cristata cristata;1
+Radiosperma corbiferum;Radiosperma corbiferum;626372;Radiosperma corbiferum;626372;Radiosperma corbiferum;0
+Mysis relicta;Mysis relicta;120120;Mysis relicta;120120;Mysis relicta;0
+Marenzelleria;Marenzelleria;129615;Marenzelleria;129615;Marenzelleria;0
+Notholca caudata;Notholca caudata;889874;Notholca caudata;889874;Notholca caudata;1
+Monoporeia affinis;Monoporeia affinis;103077;Monoporeia affinis;103077;Monoporeia affinis;0
+Anopla;Anopla;1293;Anopla;146899;Nemertea incertae sedis;0
+Keratella quadrata quadrata;Keratella quadrata quadrata;148319;Keratella quadrata quadrata;148319;Keratella quadrata quadrata;1
+Thermocyclops oithonoides;Thermocyclops oithonoides;149779;Thermocyclops oithonoides;149779;Thermocyclops oithonoides;1
+Bosmina (Bosmina);Bosmina (Bosmina);412804;Bosmina (Bosmina);412804;Bosmina (Bosmina);1
+Hyperia galba;Hyperia galba;103251;Hyperia galba;103251;Hyperia galba;0
+Keratella cochlearis recurvispina;Keratella cochlearis recurvispina;234064;Keratella cochlearis recurvispina;148322;Keratella cochlearis cochlearis;1
+Acineta;Acineta;172365;Acineta;172365;Acineta;0
+Helicostomella;Helicostomella;172434;Helicostomella;172434;Helicostomella;0
+Ceriodaphnia pulchella;Ceriodaphnia pulchella;148395;Ceriodaphnia pulchella;148395;Ceriodaphnia pulchella;1
+Filinia;Filinia;134931;Filinia;134931;Filinia;1
+487770;Limnocalanus macrurus macrurus;487770;Limnocalanus macrurus macrurus;487770;Limnocalanus macrurus macrurus;1
+123219;Asterias;123219;Asterias;123219;Asterias;0
+123386;Echinus;123386;Echinus;123386;Echinus;0
+107007;Crangon;107007;Crangon;107007;Crangon;0
+134937;Brachionus;134937;Brachionus;134937;Brachionus;1
+107616;Palaemon serratus;107616;Palaemon serratus;107616;Palaemon serratus;0
+107742;Upogebia stellata;107742;Upogebia stellata;107742;Upogebia stellata;0
+142062;Leptoplanidae;142062;Leptoplanidae;142062;Leptoplanidae;0
+123106;Spatangoida;123106;Spatangoida;123106;Spatangoida;0
+142785;Alaurina composita;142785;Alaurina composita;142785;Alaurina composita;0
+117452;Corymorpha nutans;117452;Corymorpha nutans;117452;Corymorpha nutans;0
+13551;Anthoathecata;13551;Anthoathecata;13551;Anthoathecata;0
+793;Platyhelminthes;793;Platyhelminthes;793;Platyhelminthes;0
+1131;Isopoda;1131;Isopoda;1131;Isopoda;0
+13552;Leptothecata;13552;Leptothecata;13552;Leptothecata;0
+234025;Cercopagis (Cercopagis) pengoi;234025;Cercopagis (Cercopagis) pengoi;234025;Cercopagis (Cercopagis) pengoi;0
+1082;Cirripedia;1082;Cirripedia;1082;Cirripedia;0
+2081;Chaetognatha;2081;Chaetognatha;2081;Chaetognatha;0
+106265;Bosmina;106265;Bosmina;106265;Bosmina;1
+106413;Cyclopidae;106413;Cyclopidae;106413;Cyclopidae;1
+117561;Euphysa aurata;117561;Euphysa aurata;117561;Euphysa aurata;0
+1135;Amphipoda;1135;Amphipoda;1135;Amphipoda;0
+1207;Gammaridea;1207;Gammaridea;0;;0
+152391;Nemertea;152391;Nemertea;152391;Nemertea;0
+104685;Paracalanus parvus;104685;Paracalanus parvus;745865;Paracalanus parvus parvus;1
+110398;Diastylis;110398;Diastylis;110398;Diastylis;0
+117491;Sarsia tubulosa;117491;Sarsia tubulosa;117491;Sarsia tubulosa;0
+148360;Daphniidae;148360;Daphniidae;148360;Daphniidae;1
+149668;Mysida;149668;Mysida;149668;Mysida;0
+104249;Acartia bifilosa;104249;Acartia bifilosa;345919;Acartia (Acanthacartia) bifilosa;1
+116162;Euterpina acutifrons;116162;Euterpina acutifrons;116162;Euterpina acutifrons;1
+5953;Sagittidae;5953;Sagittidae;5953;Sagittidae;0
+109921;Noctiluca scintillans;109921;Noctiluca scintillans;109921;Noctiluca scintillans;0
+123574;Ophiura;123574;Ophiura;123574;Ophiura;0
+234062;Diaphanosoma;234062;Diaphanosoma;234062;Diaphanosoma;1
+150305;Facetotecta;150305;Facetotecta;150305;Facetotecta;0
+19948;Trematoda;19948;Trematoda;19948;Trematoda;0
+115341;Microsetella;115341;Microsetella;115341;Microsetella;1
+293496;Teleostei;293496;Teleostei;293496;Teleostei;0
+117388;Obelia geniculata;117388;Obelia geniculata;117388;Obelia geniculata;0
+134798;Peltogaster paguri;134798;Peltogaster paguri;134798;Peltogaster paguri;0
+106264;Podonidae;106264;Podonidae;106264;Podonidae;1
+134941;Keratella;134941;Keratella;134941;Keratella;1
+1795;Gymnolaemata;1795;Gymnolaemata;1795;Gymnolaemata;0
+1130;Decapoda;1130;Decapoda;1130;Decapoda;0
+106925;Liocarcinus;106925;Liocarcinus;106925;Liocarcinus;0
+22755;Actinulida;22755;Actinulida;22755;Actinulida;0
+234084;Evadne anonyx;234084;Evadne anonyx;234084;Evadne anonyx;1
+134940;Kellicottia;134940;Kellicottia;134940;Kellicottia;1
+134944;Notholca;134944;Notholca;134944;Notholca;1
+163919;Tintinnopsis lobiancoi;163919;Tintinnopsis lobiancoi;163919;Tintinnopsis lobiancoi;0
+730086;Mesocyclops leuckarti leuckarti;730086;Mesocyclops leuckarti leuckarti;730086;Mesocyclops leuckarti leuckarti;1
+148371;Daphnia cucullata;148371;Daphnia cucullata;148371;Daphnia cucullata;1
+157674;Limnocalanus macrurus;157674;Limnocalanus macrurus;487770;Limnocalanus macrurus macrurus;1
+134939;Euchlanis;134939;Euchlanis;134939;Euchlanis;1
+134957;Polyarthra;134957;Polyarthra;134957;Polyarthra;1
+148320;Keratella eichwaldi;148320;Keratella eichwaldi;148320;Keratella eichwaldi;1
+148322;Keratella cochlearis cochlearis;148322;Keratella cochlearis cochlearis;148322;Keratella cochlearis cochlearis;1
+148379;Bosmina (Bosmina) longirostris;148379;Bosmina (Bosmina) longirostris;148379;Bosmina (Bosmina) longirostris;1
+148370;Daphnia;148370;Daphnia;148370;Daphnia;1
+104257;Acartia longiremis;104257;Acartia longiremis;346037;Acartia (Acartiura) longiremis;1
+134929;Collotheca;134929;Collotheca;134929;Collotheca;1
+104251;Acartia clausi;104251;Acartia clausi;149755;Acartia (Acartiura) clausi;1
+391617;Tintinnopsis tubulosa;391617;Tintinnopsis tubulosa;391617;Tintinnopsis tubulosa;0
+146421;Appendicularia;146421;Appendicularia;146421;Appendicularia;1
+378493;Tintinnopsis brandti;378493;Tintinnopsis brandti;378493;Tintinnopsis brandti;0
+104262;Acartia tonsa;104262;Acartia tonsa;345943;Acartia (Acanthacartia) tonsa;1
+378582;Daphnia cristata;378582;Daphnia cristata;378582;Daphnia cristata;1
+409915;Polyphemus pediculus;409915;Polyphemus pediculus;409915;Polyphemus pediculus;0
+149711;Pseudocalanus minutus elongatus;149711;Pseudocalanus minutus elongatus;104515;Pseudocalanus elongatus;1
+134935;Asplanchna;134935;Asplanchna;134935;Asplanchna;1
+134989;Kellicottia longispina;134989;Kellicottia longispina;134989;Kellicottia longispina;1
+247924;Diaptomus;247924;Diaptomus;247924;Diaptomus;1
+234024;Cercopagis;234024;Cercopagis;234024;Cercopagis;0
+717575;Daphnia galeata;717575;Daphnia galeata;717575;Daphnia galeata;1
+149779;Thermocyclops oithonoides;149779;Thermocyclops oithonoides;149779;Thermocyclops oithonoides;1
+134931;Filinia;134931;Filinia;134931;Filinia;1
+148376;Ceriodaphnia;148376;Ceriodaphnia;148376;Ceriodaphnia;1
+847465;Kellicottia bostoniensis;847465;Kellicottia bostoniensis;847465;Kellicottia bostoniensis;1
+378583;Daphnia cristata cristata;378583;Daphnia cristata cristata;378583;Daphnia cristata cristata;1
+134983;Brachionus quadridentatus;134983;Brachionus quadridentatus;134983;Brachionus quadridentatus;1
+Cyclopinae;Cyclopinae;853167;Cyclopinae;853167;Cyclopinae;1
+Paracalanus;Paracalanus;104196;Paracalanus;104196;Paracalanus;1
+Pseudocalanus;Pseudocalanus;104165;Pseudocalanus;104165;Pseudocalanus;1
+Lecane;Lecane;134952;Lecane;134952;Lecane;1
+Cercopagis pengoi;Cercopagis pengoi;1302994;Cercopagis pengoi;1302994;Cercopagis pengoi;0
+119821;Lophogastridae;119821;Lophogastridae;119821;Lophogastridae;0
+565161;Stauridiosarsia gemmifera;565161;Stauridiosarsia gemmifera;565161;Stauridiosarsia gemmifera;0
+Bosmina longispina;Bosmina longispina;1303345;Bosmina longispina;106271;Bosmina (Eubosmina) coregoni;1
+Bosmina (Eubosmina) longispina;Bosmina (Eubosmina) longispina;247977;Bosmina (Eubosmina) longispina;106271;Bosmina (Eubosmina) coregoni;1
+Laonome xeprovala;Laonome xeprovala;1299379;Laonome xeprovala;1299379;Laonome xeprovala;0
+149782;Cyclops;149782;Cyclops;149782;Cyclops;1
+Lecane luna;Lecane luna;148332;Lecane luna;148332;Lecane luna;1
+Tintinnopsis tubulosa;Tintinnopsis tubulosa;391617;Tintinnopsis tubulosa;391617;Tintinnopsis tubulosa;0
+Saduria entomon;Saduria entomon;119034;Saduria entomon;119034;Saduria entomon;0
+Acineta tuberosa;Acineta tuberosa;172366;Acineta tuberosa;172366;Acineta tuberosa;0
+Tintinnopsis beroidea;Tintinnopsis beroidea;163782;Tintinnopsis beroidea;163782;Tintinnopsis beroidea;0
+Harmothoe impar;Harmothoe impar;130770;Harmothoe impar;130770;Harmothoe impar;0
+Keratella testudo;Keratella testudo;134993;Keratella testudo;134993;Keratella testudo;1
+Amphibalanus;Amphibalanus;415046;Amphibalanus;415046;Amphibalanus;0
+104241;Temora;104241;Temora;104241;Temora;1
+128586;Oncaeidae;128586;Oncaeidae;128586;Oncaeidae;1
+1100;Calanoida;1100;Calanoida;1100;Calanoida;1
+292684;Acari;292684;Acari;292684;Acari;0
+1137;Cumacea;1137;Cumacea;1137;Cumacea;0
+564863;Eurytemora carolleeae;564863;Eurytemora carolleeae;564863;Eurytemora carolleeae;1
+149669;Lophogastrida;149669;Lophogastrida;149669;Lophogastrida;0
+103358;Fritillaria;103358;Fritillaria;103358;Fritillaria;1
+Calanus helgolandicus;Calanus helgolandicus;104466;Calanus helgolandicus;104466;Calanus helgolandicus;1
+128634;Corycaeus;128634;Corycaeus;128634;Corycaeus;1
+Podon leuckarti;Podon leuckarti;1303119;Podon leuckarti;106277;Podon leuckartii;1

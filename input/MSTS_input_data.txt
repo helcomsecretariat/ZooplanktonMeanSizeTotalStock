@@ -1,0 +1,105 @@
+﻿year;HELCOM_subbasin;ICES_area;RefFISH;RefCHL;TZB;MS;Notes;Data from;Reference
+1993;Gulf of Riga;28-1;1;1;401.722;4.51363;Data not reported to COMBINE is included;Latvian Institute of Aquatic Ecology (LV), Estonian Marine Institute (EE);HELCOM BLUES (is zp final report available online somewhere open access?)
+1994;Gulf of Riga;28-1;1;1;250.257;6.27509;Data not reported to COMBINE is included;Latvian Institute of Aquatic Ecology (LV), Estonian Marine Institute (EE);HELCOM BLUES (is zp final report available online somewhere open access?)
+1995;Gulf of Riga;28-1;1;1;570.687;4.63329;Data not reported to COMBINE is included;Latvian Institute of Aquatic Ecology (LV), Estonian Marine Institute (EE);HELCOM BLUES (is zp final report available online somewhere open access?)
+1996;Gulf of Riga;28-1;1;1;221.337;3.96588;Data not reported to COMBINE is included;Latvian Institute of Aquatic Ecology (LV), Estonian Marine Institute (EE);HELCOM BLUES (is zp final report available online somewhere open access?)
+1997;Gulf of Riga;28-1;1;1;161.611;4.47576;Data not reported to COMBINE is included;Latvian Institute of Aquatic Ecology (LV), Estonian Marine Institute (EE);HELCOM BLUES (is zp final report available online somewhere open access?)
+1998;Gulf of Riga;28-1;1;1;322.801;4.08659;Data not reported to COMBINE is included;Latvian Institute of Aquatic Ecology (LV), Estonian Marine Institute (EE);HELCOM BLUES (is zp final report available online somewhere open access?)
+1999;Gulf of Riga;28-1;1;1;296.020;7.38084;Data not reported to COMBINE is included;Latvian Institute of Aquatic Ecology (LV), Estonian Marine Institute (EE);HELCOM BLUES (is zp final report available online somewhere open access?)
+2000;Gulf of Riga;28-1;1;0;269.394;4.87916;Data not reported to COMBINE is included;Latvian Institute of Aquatic Ecology (LV), Estonian Marine Institute (EE);HELCOM BLUES (is zp final report available online somewhere open access?)
+2001;Gulf of Riga;28-1;1;0;250.346;5.63040;Data not reported to COMBINE is included;Latvian Institute of Aquatic Ecology (LV), Estonian Marine Institute (EE);HELCOM BLUES (is zp final report available online somewhere open access?)
+2002;Gulf of Riga;28-1;1;0;501.759;4.86070;Data not reported to COMBINE is included;Latvian Institute of Aquatic Ecology (LV), Estonian Marine Institute (EE);HELCOM BLUES (is zp final report available online somewhere open access?)
+2003;Gulf of Riga;28-1;1;0;107.807;4.99623;Data not reported to COMBINE is included;Latvian Institute of Aquatic Ecology (LV), Estonian Marine Institute (EE);HELCOM BLUES (is zp final report available online somewhere open access?)
+2004;Gulf of Riga;28-1;1;0;228.894;3.75859;Data not reported to COMBINE is included;Latvian Institute of Aquatic Ecology (LV), Estonian Marine Institute (EE);HELCOM BLUES (is zp final report available online somewhere open access?)
+2005;Gulf of Riga;28-1;1;0;360.025;6.78564;Data not reported to COMBINE is included;Latvian Institute of Aquatic Ecology (LV), Estonian Marine Institute (EE);HELCOM BLUES (is zp final report available online somewhere open access?)
+2006;Gulf of Riga;28-1;1;0;225.522;8.49452;Data not reported to COMBINE is included;Latvian Institute of Aquatic Ecology (LV), Estonian Marine Institute (EE);HELCOM BLUES (is zp final report available online somewhere open access?)
+2007;Gulf of Riga;28-1;1;0;653.575;7.54030;Data not reported to COMBINE is included;Latvian Institute of Aquatic Ecology (LV), Estonian Marine Institute (EE);HELCOM BLUES (is zp final report available online somewhere open access?)
+2008;Gulf of Riga;28-1;1;0;425.999;6.42962;Data not reported to COMBINE is included;Latvian Institute of Aquatic Ecology (LV), Estonian Marine Institute (EE);HELCOM BLUES (is zp final report available online somewhere open access?)
+2009;Gulf of Riga;28-1;1;0;922.691;4.85581;Data not reported to COMBINE is included;Latvian Institute of Aquatic Ecology (LV), Estonian Marine Institute (EE);HELCOM BLUES (is zp final report available online somewhere open access?)
+2010;Gulf of Riga;28-1;1;0;351.127;4.92962;Data not reported to COMBINE is included;Latvian Institute of Aquatic Ecology (LV), Estonian Marine Institute (EE);HELCOM BLUES (is zp final report available online somewhere open access?)
+2011;Gulf of Riga;28-1;1;0;410.335;4.57079;Data not reported to COMBINE is included;Latvian Institute of Aquatic Ecology (LV), Estonian Marine Institute (EE);HELCOM BLUES (is zp final report available online somewhere open access?)
+2012;Gulf of Riga;28-1;1;0;500.660;4.57255;Data not reported to COMBINE is included;Latvian Institute of Aquatic Ecology (LV), Estonian Marine Institute (EE);HELCOM BLUES (is zp final report available online somewhere open access?)
+2013;Gulf of Riga;28-1;1;0;268.062;5.01648;Data not reported to COMBINE is included;Latvian Institute of Aquatic Ecology (LV), Estonian Marine Institute (EE);HELCOM BLUES (is zp final report available online somewhere open access?)
+2014;Gulf of Riga;28-1;1;0;171.884;5.38897;Data not reported to COMBINE is included;Latvian Institute of Aquatic Ecology (LV), Estonian Marine Institute (EE);HELCOM BLUES (is zp final report available online somewhere open access?)
+2015;Gulf of Riga;28-1;1;0;729.333;6.62123;Data not reported to COMBINE is included;Latvian Institute of Aquatic Ecology (LV), Estonian Marine Institute (EE);HELCOM BLUES (is zp final report available online somewhere open access?)
+2016;Gulf of Riga;28-1;0;0;729.895;4.73835;Data not reported to COMBINE is included;Latvian Institute of Aquatic Ecology (LV), Estonian Marine Institute (EE);HELCOM BLUES (is zp final report available online somewhere open access?)
+2017;Gulf of Riga;28-1;0;0;394.244;6.13547;Data not reported to COMBINE is included;Latvian Institute of Aquatic Ecology (LV), Estonian Marine Institute (EE);HELCOM BLUES (is zp final report available online somewhere open access?)
+2018;Gulf of Riga;28-1;0;0;591.407;3.90890;Data not reported to COMBINE is included;Latvian Institute of Aquatic Ecology (LV), Estonian Marine Institute (EE);HELCOM BLUES (is zp final report available online somewhere open access?)
+2019;Gulf of Riga;28-1;0;0;756.186;7.18579;Data not reported to COMBINE is included;Latvian Institute of Aquatic Ecology (LV), Estonian Marine Institute (EE);HELCOM BLUES (is zp final report available online somewhere open access?)
+2020;Gulf of Riga;28-1;0;0;371.712;5.34331;Data not reported to COMBINE is included;Latvian Institute of Aquatic Ecology (LV), Estonian Marine Institute (EE);HELCOM BLUES (is zp final report available online somewhere open access?)
+1979;Bothnian Bay;31;0;1;413.939;26.87013;;;ZEN, E.Gorokhova
+1980;Bothnian Bay;31;0;1;172.894;17.55156;;;ZEN, E.Gorokhova
+1981;Bothnian Bay;31;1;1;119.274;14.99452;;;ZEN, E.Gorokhova
+1982;Bothnian Bay;31;1;1;140.968;31.97370;;;ZEN, E.Gorokhova
+1983;Bothnian Bay;31;1;1;250.744;51.64427;;;ZEN, E.Gorokhova
+1984;Bothnian Bay;31;1;1;516.814;79.48048;;;ZEN, E.Gorokhova
+1985;Bothnian Bay;31;1;1;162.451;24.94873;;;ZEN, E.Gorokhova
+1986;Bothnian Bay;31;1;1;103.373;25.63051;;;ZEN, E.Gorokhova
+1987;Bothnian Bay;31;1;1;177.197;39.97828;;;ZEN, E.Gorokhova
+1988;Bothnian Bay;31;1;1;309.650;66.17553;;;ZEN, E.Gorokhova
+1989;Bothnian Bay;31;0;0;236.730;37.92477;;;ZEN, E.Gorokhova
+1990;Bothnian Bay;31;0;0;219.009;39.03024;;;ZEN, E.Gorokhova
+1991;Bothnian Bay;31;1;1;184.713;30.43716;;;ZEN, E.Gorokhova
+1992;Bothnian Bay;31;1;1;553.707;31.92201;;;ZEN, E.Gorokhova
+1993;Bothnian Bay;31;0;1;304.128;31.16580;;;ZEN, E.Gorokhova
+1994;Bothnian Bay;31;0;1;352.239;31.81353;;;ZEN, E.Gorokhova
+1995;Bothnian Bay;31;0;1;233.467;22.73972;;;ZEN, E.Gorokhova
+1996;Bothnian Bay;31;0;1;172.352;27.33750;;;ZEN, E.Gorokhova
+1997;Bothnian Bay;31;0;0;214.328;36.55206;;;ZEN, E.Gorokhova
+1998;Bothnian Bay;31;0;0;192.063;30.34731;;;ZEN, E.Gorokhova
+1999;Bothnian Bay;31;0;0;252.612;60.98127;;;ZEN, E.Gorokhova
+2000;Bothnian Bay;31;0;0;163.553;32.78633;;;ZEN, E.Gorokhova
+2001;Bothnian Bay;31;0;0;198.632;36.49505;;;ZEN, E.Gorokhova
+2002;Bothnian Bay;31;0;0;158.018;22.99824;;;ZEN, E.Gorokhova
+2003;Bothnian Bay;31;0;0;213.674;29.48402;;;ZEN, E.Gorokhova
+2004;Bothnian Bay;31;0;0;277.512;46.21762;;;ZEN, E.Gorokhova
+2005;Bothnian Bay;31;0;0;233.690;80.67815;;;ZEN, E.Gorokhova
+2006;Bothnian Bay;31;0;0;211.660;29.89207;;;ZEN, E.Gorokhova
+2007;Bothnian Bay;31;0;0;185.380;46.25163;;;ZEN, E.Gorokhova
+2008;Bothnian Bay;31;0;0;206.298;32.03596;;;ZEN, E.Gorokhova
+2009;Bothnian Bay;31;0;0;239.363;34.27411;;;ZEN, E.Gorokhova
+2010;Bothnian Bay;31;0;0;209.638;27.38833;;;ZEN, E.Gorokhova
+2011;Bothnian Bay;31;0;0;217.543;43.99232;;;ZEN, E.Gorokhova
+2012;Bothnian Bay;31;0;0;140.051;19.52637;;;ZEN, E.Gorokhova
+2013;Bothnian Bay;31;0;0;181.365;30.77066;;;ZEN, E.Gorokhova
+2014;Bothnian Bay;31;0;0;151.296;36.04520;;;ZEN, E.Gorokhova
+2015;Bothnian Bay;31;0;0;140.573;23.35356;;;ZEN, E.Gorokhova
+2016;Bothnian Bay;31;0;0;194.920;26.37400;;;ZEN, E.Gorokhova
+1979;Bothnian Sea;30;0;1;115.796;6.55126;;;ZEN, E.Gorokhova
+1980;Bothnian Sea;30;0;1;61.583;9.91241;;;ZEN, E.Gorokhova
+1981;Bothnian Sea;30;0;1;44.196;6.36010;;;ZEN, E.Gorokhova
+1982;Bothnian Sea;30;0;1;60.549;10.27042;;;ZEN, E.Gorokhova
+1983;Bothnian Sea;30;1;1;240.773;19.25135;;;ZEN, E.Gorokhova
+1984;Bothnian Sea;30;1;1;105.103;21.71384;;;ZEN, E.Gorokhova
+1985;Bothnian Sea;30;1;1;89.916;14.16360;;;ZEN, E.Gorokhova
+1986;Bothnian Sea;30;1;1;70.026;14.80594;;;ZEN, E.Gorokhova
+1987;Bothnian Sea;30;1;0;81.558;7.50482;;;ZEN, E.Gorokhova
+1988;Bothnian Sea;30;1;0;216.379;16.27518;;;ZEN, E.Gorokhova
+1989;Bothnian Sea;30;0;0;108.588;12.681;;;ZEN, E.Gorokhova
+1990;Bothnian Sea;30;1;0;127.344;9.6365;;;ZEN, E.Gorokhova
+1991;Bothnian Sea;30;1;0;114.162;5.4147;;;ZEN, E.Gorokhova
+1992;Bothnian Sea;30;0;0;60.478;16.1409;;;ZEN, E.Gorokhova
+1993;Bothnian Sea;30;0;0;410.471;25.8922;;;ZEN, E.Gorokhova
+1994;Bothnian Sea;30;0;0;136.506;12.3801;;;ZEN, E.Gorokhova
+1995;Bothnian Sea;30;0;0;222.416;21.1153;;;ZEN, E.Gorokhova
+1996;Bothnian Sea;30;0;0;163.049;12.5741;;;ZEN, E.Gorokhova
+1997;Bothnian Sea;30;0;0;134.939;13.480;;;ZEN, E.Gorokhova
+1998;Bothnian Sea;30;0;0;88.327;16.9798;;;ZEN, E.Gorokhova
+1999;Bothnian Sea;30;0;0;132.608;13.655;;;ZEN, E.Gorokhova
+2000;Bothnian Sea;30;0;0;187.268;7.8282;;;ZEN, E.Gorokhova
+2001;Bothnian Sea;30;0;0;227.402;22.4128;;;ZEN, E.Gorokhova
+2002;Bothnian Sea;30;0;0;353.329;28.0171;;;ZEN, E.Gorokhova
+2003;Bothnian Sea;30;0;0;179.976;34.3481;;;ZEN, E.Gorokhova
+2004;Bothnian Sea;30;0;0;205.573;16.8106;;;ZEN, E.Gorokhova
+2005;Bothnian Sea;30;0;0;180.869;8.1647;;;ZEN, E.Gorokhova
+2006;Bothnian Sea;30;0;0;190.044;19.7278;;;ZEN, E.Gorokhova
+2007;Bothnian Sea;30;0;0;185.339;17.1190;;;ZEN, E.Gorokhova
+2008;Bothnian Sea;30;0;0;196.332;12.4100;;;ZEN, E.Gorokhova
+2009;Bothnian Sea;30;0;0;177.431;19.6932;;;ZEN, E.Gorokhova
+2010;Bothnian Sea;30;0;0;140.506;19.7877;;;ZEN, E.Gorokhova
+2011;Bothnian Sea;30;0;0;158.870;21.5535;;;ZEN, E.Gorokhova
+2012;Bothnian Sea;30;0;0;132.371;18.4096;;;ZEN, E.Gorokhova
+2013;Bothnian Sea;30;0;0;218.176;35.2779;;;ZEN, E.Gorokhova
+2014;Bothnian Sea;30;0;0;109.789;24.3363;;;ZEN, E.Gorokhova
+2015;Bothnian Sea;30;0;0;203.376;19.7609;;;ZEN, E.Gorokhova
+2016;Bothnian Sea;30;0;0;252.793325;15.2267075;;;ZEN, E.Gorokhova

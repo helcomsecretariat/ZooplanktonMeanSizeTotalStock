@@ -1,0 +1,55 @@
+# Developed within the project "Baltic Data Flows" Activity 6: Biodiversity. 
+# Project funded by the EU Innovation and Networks Agency (INEA) via Connecting Europe Facility funding instrument
+# More information on the project: https://balticdataflows.helcom.fi/
+
+### Field descriptions for 'MSTS_statn.txt'
+HELCOM_subbasin: /Character variable/ name of a subbasin of the Baltic Sea as defined in HELCOM (https://gis.ices.dk/geonetwork/srv/api/records/225df9db-bfdf-4388-8ccb-fa4b99053a36)
+STATN: /Character variable/ station name as reported to ICES DOME (see ICES Station Vocabulary)
+MSTS_calc: /Logical variable/ describing whether Station is used for calculations of MSTS threshold values (1 - yes; 0- no)
+Layer_considered: /Character variable/ describing the type of water layer considered in MSTS for the specific Station data (C - whole water column, from top to bottom; TXX - top XX meters of the water column)
+BotDepth_considered[m]: /Numeric variable/ bottom depth of the water layer considered for MSTS in meters
+
+---
+
+### Field descriptions for 'MSTS_addPar.txt'
+HELCOM_subbasin: /Character variable/ name of a subbasin of the Baltic Sea as defined in HELCOM (https://gis.ices.dk/geonetwork/srv/api/records/225df9db-bfdf-4388-8ccb-fa4b99053a36)
+RefFISH: /Character variable/ reference period defined based on expert opinion and Weight-At-Age or other herring/sprat feeding condition indices
+RefCHL: /Character variable/ reference period defined based on expert opinion and chlorophyll-a, Secchi depth or other eutrophication proxy
+Hist_data_source: /Character variable/ data source to be used for calculation of the threshold values (and supplementary parameters: lamda, ref-mean, ref-sd)
+defGES_TZB[mg_m-3]: /Numeric variable/ defined threshold value for Total Stock (total zooplankton biomass) parameter
+defGES_MS[µg_ind-1]: /Numeric variable/ defined threshold value for Mean Size parameter
+Per_start[month]: /Numeric variable/ the starting month of the period considered as relevant for specific subbasin (period used for threshold value calculation and to be used for the assessment)
+Per_end[month]: /Numeric variable/ the ending month of the period considered as relevant for specific subbasin (period used for threshold value calculation and to be used for the assessment)
+
+---
+
+### Field descriptions for 'MSTS_hist_data.txt'
+year: /Numeric variable/ year of the data
+HELCOM_subbasin: /Character variable/ name of a subbasin of the Baltic Sea as defined in HELCOM (https://gis.ices.dk/geonetwork/srv/api/records/225df9db-bfdf-4388-8ccb-fa4b99053a36)
+ICES_area: /Character variable/ name of a subbasin of the Baltic Sea as defined in ICES(https://gis.ices.dk/geonetwork/srv/eng/catalog.search#/metadata/c784a0a3-752f-4b50-b02f-f225f6c815eb)
+RefFISH: /Logical variable/ reference period defined based on expert opinion and Weight-At-Age or other herring/sprat feeding condition indices (1 - used as a reference year; 0 - not used as a reference year)
+RefCHL: /Logical variable/ reference period defined based on expert opinion and chlorophyll-a, Secchi depth or other eutrophication proxy (1 - used as a reference year; 0 - not used as a reference year)
+TZB: /Numeric variable/ Total zooplankton biomass (Total Stock proxy), annual mean for period relevant in MSTS-asessment, see 'MSTS_addPar.txt' Per_start[month], Per_end[month]
+MS: /Numeric variable/ Mean Size of zooplankton, annual mean for period relevant in MSTS-asessment, see 'MSTS_addPar.txt' Per_start[month], Per_end[month]
+Notes: /Character variable/ Notes
+Data from: /Character variable/ Raw Data holder
+Reference: /Character variable/ Reference to Data aggregator/s
+
+---
+
+### Field descriptions for 'MSTS_ZPspecies.txt' (will become redundant when ICES will provide data extract including only MSTS-relevant species) 
+SPECI: /Character variable/ 
+SPECI_name: /Character variable/
+AphiaID: /Numeric variable/ 
+WoRMS_name: /Character variable/
+AphiaID_accepted: /Character variable/
+WoRMS_accepted_name: /Character variable/
+MSTS_use: /Logical variable/ describing whether Species is used for MSTS-assessment, only herbivorous holoplankton are included (1 - yes; 0- no)
+
+---
+
+### 'ICES_HELCOM_zp.txt'
+An example data from data extract (https://data.ices.dk/) describing zooplankton biological community. Example data are limited to represent four HELCOM subbasins: Bothninan Bay, Bothnian Sea, Gulf of Riga, Western Gotland Basin.
+
+---
+
