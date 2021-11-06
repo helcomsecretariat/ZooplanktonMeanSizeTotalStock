@@ -17,9 +17,6 @@ rm(list=ls())
 #####.
 #setwd("C:/ ... ")
 
-#local setwd()
-setwd("C:/Users/Astra/Dropbox/PROJEKTI/2020-2023_BalticDataFlows/A6-biodiversity/MSTSautocalc_v2")
-
 ## Can be ignored but then a full path has to be specified for input_msts, stations_for_msts,
 ## addPar_for_msts,species_list_for_msts and path_input_msts 
 ## (see 'SPECIFY INPUT FILES/VALUES')
