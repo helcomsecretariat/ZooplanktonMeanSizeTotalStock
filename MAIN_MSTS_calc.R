@@ -17,7 +17,6 @@ rm(list=ls())
 #####.
 #setwd("C:/ ... ")
 
-
 ## Can be ignored but then a full path has to be specified for input_msts, stations_for_msts,
 ## addPar_for_msts,species_list_for_msts and path_input_msts 
 ## (see 'SPECIFY INPUT FILES/VALUES')
@@ -30,6 +29,7 @@ if (!require("magrittr")) install.packages("magrittr")
 if (!require("dplyr")) install.packages("dplyr") 
 if (!require("ggplot2")) install.packages("ggplot2") # for plots
 if (!require("tidyquant")) install.packages("tidyquant") # for plots
+if("ggpubr" %in% rownames(installed.packages()) == FALSE) {install.packages("ggpubr")}  ## Kendall's tau via stat_cor()
 options(dplyr.summarise.inform = FALSE)
 # * - see output of sessionInfo() in the last section!
 cat("\nRequired packages added!")
@@ -65,7 +65,7 @@ cat(paste0("\nHistorical data are defined in external source ('MSTS_hist_data.tx
 ## identify HELCOM_subbasins where historical data are from COMBINE extracts
 hist_data_COMBINE_Hsubbas <-
   MSTS_infoPar[MSTS_infoPar$Hist_data_source == "COMBINE",]$HELCOM_subbasin
-cat(paste0("\nHistorical data is taken from ICES data for: ", 
+cat(paste0("\nHistorical data are taken from ICES data for: ", 
            hist_data_COMBINE_Hsubbas, "\n"))
 
 ## identify HELCOM_subbasins where historical data input is not defined
@@ -137,12 +137,12 @@ source('./addSCRIPTS/ICES_ZP_data_aggregation.R') #output object: MSTS_data
 
 
 ### save data after aggregation in output folder 
-dir.create(file.path(getwd(), "output"))   
-dir.create(file.path(paste0(getwd(),"/output"), "Aggregated data"))   
+suppressWarnings( dir.create(file.path(getwd(), "output")) )   
+suppressWarnings( dir.create(file.path(paste0(getwd(),"/output"), "Aggregated data")) )  
 
-write.csv(MSTS_data, paste0("./output/aggregated data/MSTS_aggr_output_",Sys.Date(),".txt"),
+write.csv(MSTS_data, paste0("./output/Aggregated data/MSTS_aggr_output_",Sys.Date(),".txt"),
           row.names=FALSE)
-cat(paste0("\nFile: ", paste0("./output/aggregated data/MSTS_aggr_output_",Sys.Date(),".txt"),
+cat(paste0("\nFile: ", paste0("./output/Aggregated data/MSTS_aggr_output_",Sys.Date(),".txt"),
            "   saved in output folder"))
 
 ##############################################################################################.
@@ -254,7 +254,8 @@ MSTS_data_input <- fread(path_input_msts, encoding = "UTF-8") %>%
                                               # for now its commented out
 
 ##
-source('./addSCRIPTS/MSTS_GEScalc.R')
+suppressWarnings(
+  source('./addSCRIPTS/MSTS_GEScalc.R') )
 
 ## 'MSTS_GEScalc.R' does MSTS assessment:
 
@@ -264,7 +265,7 @@ source('./addSCRIPTS/MSTS_GEScalc.R')
 
 cat("\n GES values set for ", paste0(MSTS_GES$HELCOM_subbasin, sep = ", "))
 
-dir.create(file.path(paste0(getwd(),"/output"), "Fin Asessment Data"))
+suppressWarnings( dir.create(file.path(paste0(getwd(),"/output"), "Fin Asessment Data")) )
 write.csv(MSTS_GES, paste0("./output/Fin Asessment Data/MSTS_GES_",Sys.Date(),".txt"), 
           row.names=FALSE)
 cat(paste0("\nFile: ", paste0("./output/Fin Asessment Data/MSTS_GES_",Sys.Date(),".txt"),
@@ -291,7 +292,8 @@ colnames(MSTS_conf_STATNobserved)[3] <- "n_STATNobserved"
 
    # merge into one object:
 MSTS_conf <- MSTS_conf_ObPerYear %>%
-  full_join(., MSTS_conf_STATNobserved)
+  full_join(., MSTS_conf_STATNobserved) %>%
+  filter(MYEAR >= first_year_of_the_assessment_period)
 rm(MSTS_conf_ObPerYear, MSTS_conf_STATNobserved)  
 
 ### B0. Averaging                                             ####
@@ -476,9 +478,16 @@ cat(paste0("\nFile: ", paste0("./output/Fin Asessment Data/MSTS_confidence_",Sys
 
 ### Plots
 # create folder for Plots
-dir.create(file.path(paste0(getwd(),"/output"), "Plots"))   
+suppressWarnings( dir.create(file.path(paste0(getwd(),"/output"), "Plots")) )
+suppressWarnings( dir.create(file.path(paste0(getwd(),"/output/Plots"), "trend_TZB")) )
+suppressWarnings( dir.create(file.path(paste0(getwd(),"/output/Plots"), "trend_MS")) )
+suppressWarnings( dir.create(file.path(paste0(getwd(),"/output/Plots"), "trend_CuSum")) )
+suppressWarnings( dir.create(file.path(paste0(getwd(),"/output/Plots"), "MSTS")) )
+
 
 ### Long-term trends of TZB ####
+## scales min-max - for all subbasins equal
+
 plot_list_tzb = list()
 for (subb in seq_along(MSTS_assess)){
 
@@ -496,7 +505,8 @@ for (subb in seq_along(MSTS_assess)){
              size=0.8, alpha=0.6)+
   geom_point(size = 2, shape = 19, alpha = 0.7, color = "grey30")+
   tidyquant::geom_ma(ma_fun = SMA, n = 2, linetype = "solid", size = 0.5, color = "grey30")+
-  geom_smooth(method = "lm", se=FALSE, linetype = "solid", colour = "black", size = 1)+
+  geom_smooth(method = "lm", se=FALSE, linetype = "dotted", colour = "black", size = 0.5)+
+  ggpubr::stat_cor(cor.coef.name = "tau", p.accuracy = 0.001)+
   theme_classic(base_size = 12)+
   theme(axis.title.x = element_blank(), 
         plot.title = element_text(hjust = 0.5, face = "plain"))+
@@ -510,20 +520,68 @@ for (subb in seq_along(MSTS_assess)){
 
 # Save plots to tiff. Makes a separate file for each plot.
 for (subb in seq_along(MSTS_assess)) {
-  file_name = paste("./output/Plots/trend_TZB_", MSTS_GES[subb,]$HELCOM_subbasin, ".tiff", sep="")
+  file_name = paste("./output/Plots/trend_TZB/trend_TZB_", MSTS_GES[subb,]$HELCOM_subbasin, ".tiff", sep="")
   tiff(file_name, width = 15, height = 10, units = "cm", res=300, compression = 'lzw')
   print(plot_list_tzb[[subb]])
   dev.off()
 }
 
 # Another option: create pdf where each page is a separate plot.
-pdf("./output/Plots/trend_TZB.pdf")
+pdf("./output/Plots/trend_TZB/trend_TZB.pdf")
 for (subb in seq_along(MSTS_assess)) {
     print(plot_list_tzb[[subb]])
 }
 dev.off()
 
+## Y autoscale - Y scale different for subbasins
+
+plot_list_tzb = list()
+for (subb in seq_along(MSTS_assess)){
+  
+  p = ggplot(MSTS_assess[[subb]], aes(year, TZB))+
+    geom_rect(aes(xmin=first_year_of_the_assessment_period-0.3, 
+                  xmax=first_year_of_the_assessment_period + 5.5, 
+                  ymin=-Inf, ymax=MSTS_GES[subb,]$GES_tzb), 
+              fill="lightpink", alpha=0.01)+
+    geom_rect(aes(xmin=first_year_of_the_assessment_period-0.3, 
+                  xmax=first_year_of_the_assessment_period + 5.5, 
+                  ymin=MSTS_GES[subb,]$GES_tzb, ymax=Inf), 
+              fill="palegreen", alpha=0.01)+
+    geom_hline(aes(yintercept = MSTS_GES[subb,]$GES_tzb),
+               linetype="solid", color="red", 
+               size=0.8, alpha=0.6)+
+    geom_point(size = 2, shape = 19, alpha = 0.7, color = "grey30")+
+    tidyquant::geom_ma(ma_fun = SMA, n = 2, linetype = "solid", size = 0.5, color = "grey30")+
+    geom_smooth(method = "lm", se=FALSE, linetype = "dotted", colour = "black", size = 0.5)+
+    ggpubr::stat_cor(cor.coef.name = "tau", p.accuracy = 0.001)+
+    theme_classic(base_size = 12)+
+    theme(axis.title.x = element_blank(), 
+          plot.title = element_text(hjust = 0.5, face = "plain"))+
+    labs(y = expression("Biomass (TZB),"~mg~m^-3), 
+         title = paste0(MSTS_GES[subb,]$HELCOM_subbasin))+
+    xlim(min(MSTS_assess_df$year), first_year_of_the_assessment_period + 5.5)
+  
+  plot_list_tzb[[subb]] <- p
+}
+
+# Save plots to tiff. Makes a separate file for each plot.
+for (subb in seq_along(MSTS_assess)) {
+  file_name = paste("./output/Plots/trend_TZB/trend_TZB_autoY_", MSTS_GES[subb,]$HELCOM_subbasin, ".tiff", sep="")
+  tiff(file_name, width = 15, height = 10, units = "cm", res=300, compression = 'lzw')
+  print(plot_list_tzb[[subb]])
+  dev.off()
+}
+
+# Another option: create pdf where each page is a separate plot.
+pdf("./output/Plots/trend_TZB/trend_TZB_autoY.pdf")
+for (subb in seq_along(MSTS_assess)) {
+  print(plot_list_tzb[[subb]])
+}
+dev.off()
+
+
 ### Long-term trends of MS ####
+## scales min-max - for all subbasins equal
 plot_list_ms = list()
 for (subb in seq_along(MSTS_assess)){
   
@@ -541,7 +599,8 @@ for (subb in seq_along(MSTS_assess)){
                size=0.8, alpha=0.6)+
     geom_point(size = 2, shape = 19, alpha = 0.7, color = "grey30")+
     tidyquant::geom_ma(ma_fun = SMA, n = 2, linetype = "solid", size = 0.5, color = "grey30")+
-    geom_smooth(method = "lm", se=FALSE, linetype = "solid", colour = "black", size = 1)+
+    geom_smooth(method = "lm", se=FALSE, linetype = "dotted", colour = "black", size = 0.5)+
+    ggpubr::stat_cor(cor.coef.name = "tau", p.accuracy = 0.001)+
     theme_classic(base_size = 12)+
     theme(axis.title.x = element_blank(), 
           plot.title = element_text(hjust = 0.5, face = "plain"))+
@@ -555,19 +614,63 @@ for (subb in seq_along(MSTS_assess)){
 
 # Save plots to tiff. Makes a separate file for each plot.
 for (subb in seq_along(MSTS_assess)) {
-  file_name = paste("./output/Plots/trend_MS_", MSTS_GES[subb,]$HELCOM_subbasin, ".tiff", sep="")
+  file_name = paste("./output/Plots/trend_MS/trend_MS_", MSTS_GES[subb,]$HELCOM_subbasin, ".tiff", sep="")
   tiff(file_name, width = 15, height = 10, units = "cm", res=300, compression = 'lzw')
   print(plot_list_ms[[subb]])
   dev.off()
 }
 
 # Another option: create pdf where each page is a separate plot.
-pdf("./output/Plots/trend_MS.pdf")
+pdf("./output/Plots/trend_MS/trend_MS.pdf")
 for (subb in seq_along(MSTS_assess)) {
   print(plot_list_ms[[subb]])
 }
 dev.off()
 
+## Y autoscale - Y scale different for subbasins
+plot_list_ms = list()
+for (subb in seq_along(MSTS_assess)){
+  
+  p = ggplot(MSTS_assess[[subb]], aes(year, MS))+
+    geom_rect(aes(xmin=first_year_of_the_assessment_period-0.3, 
+                  xmax=first_year_of_the_assessment_period + 5.5, 
+                  ymin=-Inf, ymax=MSTS_GES[subb,]$GES_ms), 
+              fill="lightpink", alpha=0.01)+
+    geom_rect(aes(xmin=first_year_of_the_assessment_period-0.3, 
+                  xmax=first_year_of_the_assessment_period + 5.5, 
+                  ymin=MSTS_GES[subb,]$GES_ms, ymax=Inf), 
+              fill="palegreen", alpha=0.01)+
+    geom_hline(aes(yintercept = MSTS_GES[subb,]$GES_ms),
+               linetype="solid", color="red", 
+               size=0.8, alpha=0.6)+
+    geom_point(size = 2, shape = 19, alpha = 0.7, color = "grey30")+
+    tidyquant::geom_ma(ma_fun = SMA, n = 2, linetype = "solid", size = 0.5, color = "grey30")+
+    geom_smooth(method = "lm", se=FALSE, linetype = "dotted", colour = "black", size = 0.5)+
+    ggpubr::stat_cor(cor.coef.name = "tau", p.accuracy = 0.001)+
+    theme_classic(base_size = 12)+
+    theme(axis.title.x = element_blank(), 
+          plot.title = element_text(hjust = 0.5, face = "plain"))+
+    labs(y = expression("Mean Size (MS), \U00B5g"~ind^-1), 
+         title = paste0(MSTS_GES[subb,]$HELCOM_subbasin))+
+    xlim(min(MSTS_assess_df$year), first_year_of_the_assessment_period + 5.5)
+  
+  plot_list_ms[[subb]] <- p
+}
+
+# Save plots to tiff. Makes a separate file for each plot.
+for (subb in seq_along(MSTS_assess)) {
+  file_name = paste("./output/Plots/trend_MS/trend_MS_autoY_", MSTS_GES[subb,]$HELCOM_subbasin, ".tiff", sep="")
+  tiff(file_name, width = 15, height = 10, units = "cm", res=300, compression = 'lzw')
+  print(plot_list_ms[[subb]])
+  dev.off()
+}
+
+# Another option: create pdf where each page is a separate plot.
+pdf("./output/Plots/trend_MS/trend_MS_autoY.pdf")
+for (subb in seq_along(MSTS_assess)) {
+  print(plot_list_ms[[subb]])
+}
+dev.off()
 
 ### CuSum trend ####
 MSTS_cusum_df <- MSTS_assess_df %>% gather(cusum, value, LC_tzb:LC_ms) 
@@ -616,14 +719,14 @@ for (subb in seq_along(MSTS_cusum)){
       
 # Save plots to tiff. Makes a separate file for each plot.
 for (subb in seq_along(MSTS_cusum)) {
-  file_name = paste("./output/Plots/trend_cusum_", MSTS_GES[subb,]$HELCOM_subbasin, ".tiff", sep="")
+  file_name = paste("./output/Plots/trend_CuSum/trend_cusum_", MSTS_GES[subb,]$HELCOM_subbasin, ".tiff", sep="")
   tiff(file_name, width = 15, height = 10, units = "cm", res=300, compression = 'lzw')
   print(plot_list_cusum[[subb]])
   dev.off()
 }
 
 # Another option: create pdf where each page is a separate plot.
-pdf("./output/Plots/trend_cusum.pdf")
+pdf("./output/Plots/trend_CuSum/trend_cusum.pdf")
 for (subb in seq_along(MSTS_cusum)) {
   print(plot_list_cusum[[subb]])
 }
@@ -656,7 +759,7 @@ for (subb in seq_along(MSTS_assess)){
               legend.title=element_blank(),
               plot.title = element_text(face = "plain", hjust = 0.5))+
         labs(
-          x=expression("TZB,"~mg~m3^-3),
+          x=expression("TZB,"~mg~m^-3),
           y=expression("MS,"~"\U00B5g"~ind^-1),
           title = paste0(MSTS_GES[subb,]$HELCOM_subbasin))
 
@@ -665,14 +768,14 @@ for (subb in seq_along(MSTS_assess)){
 
 # Save plots to tiff. Makes a separate file for each plot.
 for (subb in seq_along(MSTS_assess)) {
-  file_name = paste("./output/Plots/MSTS_", MSTS_GES[subb,]$HELCOM_subbasin, ".tiff", sep="")
+  file_name = paste("./output/Plots/MSTS/MSTS_", MSTS_GES[subb,]$HELCOM_subbasin, ".tiff", sep="")
   tiff(file_name, width = 15, height = 10, units = "cm", res=300, compression = 'lzw')
   print(plot_list_msts[[subb]])
   dev.off()
 }
 
 # Another option: create pdf where each page is a separate plot.
-pdf("./output/Plots/MSTS.pdf")
+pdf("./output/Plots/MSTS/MSTS.pdf")
 for (subb in seq_along(MSTS_assess)) {
   print(plot_list_msts[[subb]])
 }
