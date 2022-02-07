@@ -15,7 +15,7 @@ ___
 ##### **1. 'MSTS_addPar.txt'**
 
 | Column name | Variable type | Description |
-|  :-----  |  :---  |  :-------- |
+|  :-----  |  :---  |  :------- |
 | HELCOM_subbasin | Character | name of a subbasin (assessment unit) of the Baltic Sea [as defined in HELCOM](https://gis.ices.dk/geonetwork/srv/api/records/225df9db-bfdf-4388-8ccb-fa4b99053a36) |
 | RefFISH | Character | reference period defined based on expert opinion and Weight-At-Age or other herring/sprat feeding condition indices. year_from:year_to |
 | RefCHL | Character | reference period defined based on expert opinion and chlorophyll-a, Secchi depth or other eutrophication proxy. year_from:year_to |
@@ -32,7 +32,7 @@ ___
 Provides information on assessment units idetified as 'input' in Hist_data_source column in 'MSTS_addPar.txt'. No missing data are allowed in timeseries. If NA's are present an estimate must be provided before running the script!
 
 | Column name | Variable type | Description |
-|  :-----  |  :---  |  :-------- |
+|  :-----  |  :---  |  :------- |
 | year | Numeric | year |
 | HELCOM_subbasin | Character | name of a subbasin (assessment unit) of the Baltic Sea [as defined in HELCOM](https://gis.ices.dk/geonetwork/srv/api/records/225df9db-bfdf-4388-8ccb-fa4b99053a36) |
 | ICES_area | Character | name of a subbasin of the Baltic Sea [as defined in ICES](https://gis.ices.dk/geonetwork/srv/eng/catalog.search#/metadata/c784a0a3-752f-4b50-b02f-f225f6c815eb) |
