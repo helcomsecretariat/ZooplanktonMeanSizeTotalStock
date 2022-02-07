@@ -21,7 +21,7 @@ ___
 | RefCHL | Character | reference period defined based on expert opinion and chlorophyll-a, Secchi depth or other eutrophication proxy. year_from:year_to |
 | Hist_data_source | Character | data source to be used (note: 'input' or 'COMBINE') for calculation of the threshold values (and supplementary parameters: lambda, ref-mean, ref-sd). input - if yearly means are to be used for reference period; COMBINE - if data extract from ICES is to be used for reference period |
 | defGES_TZB[mg_m-3] | Numeric | defined threshold value for Total Stock (total zooplankton biomass) parameter |
-| defGES_MS[$\mu$g_ind-1] | Numeric | defined threshold value for MEan Size parameter |
+| defGES_MS[ug_ind-1] | Numeric | defined threshold value for MEan Size parameter |
 | Per_start[month] | Numeric | reference period defined based on expert opinion and chlorophyll-a, Secchi depth or other eutrophication proxy | the starting month of the period considered as relevant for specific subbasin (period used for threshold value calculation and to be used for the assessment) |
 | Per_end[month] | Numeric | reference period defined based on expert opinion and chlorophyll-a, Secchi depth or other eutrophication proxy | the ending month of the period considered as relevant for specific subbasin (period used for threshold value calculation and to be used for the assessment) |
 | Depth_minLimit[m] | Numeric | data covering layer to the defined depth or deeper are included in the calculation |
@@ -83,11 +83,11 @@ ___
   
   2. **Fin Assessment Data**: 
    
-   * MSTS assessment data 'MSTS_assessment_df_[date].txt'. Holds yearly data per HELCOM subbasin (assessment unit) on untransformed and transformed TZB and MS, z-scores, lowerCusum, Alarm column (1 for sub-GES; 0 for GES)
+    * MSTS assessment data 'MSTS_assessment_df_[date].txt'. Holds yearly data per HELCOM subbasin (assessment unit) on untransformed and transformed TZB and MS, z-scores, lowerCusum, Alarm column (1 for sub-GES; 0 for GES)
    
-   * MSTS assessment confidence values 'MSTS_confidence_[date].txt'. n_ObPerYear - number of datapoins (samples) per year included in the assessment (temporal confidence); n_STATNobserved - number of different stations included in the assessment (spatial confidence).
+    * MSTS assessment confidence values 'MSTS_confidence_[date].txt'. n_ObPerYear - number of datapoins (samples) per year included in the assessment (temporal confidence); n_STATNobserved - number of different stations included in the assessment (spatial confidence).
    
-   * GES values calculated/used in the assessment 'MSTS_GES_[date].txt'.
+    * GES values calculated/used in the assessment 'MSTS_GES_[date].txt'.
   
 * **Graphical outputs**
   
