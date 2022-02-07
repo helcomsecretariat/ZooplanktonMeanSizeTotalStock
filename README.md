@@ -68,8 +68,7 @@ Information relevant for data aggregation (if necesaray). It defines stations (S
 | STATN | Character | station name as reported to ICES DOME |
 | MSTS_calc | Logical | describing whether Station is used for calculations of MSTS threshold values (1 - yes; 0- no) |
 | Layer_considered | Character | describing the type of water layer considered in MSTS for the specific Station data (C - whole water column, from top to bottom; TXX - top XX meters of the water column |
-| BotDepth_considered[m] | Numeric | bottom depth of the water layer considered for MSTS in meters
- |
+| BotDepth_considered[m] | Numeric | bottom depth of the water layer considered for MSTS in meters |
 
 ##### **5. ICES example file 'ICES_HELCOM_zp.txt'**
 An example data from https://data.ices.dk/view-map describing zooplankton biological community. Example data are limited to represent four HELCOM subbasins: Bothnian Bay, Bothnian Sea, Gulf of Riga, Western Gotland Basin.
@@ -90,13 +89,13 @@ ___
    
    * GES values calculated/used in the assessment 'MSTS_GES_[date].txt'.
   
-  3. **Graphical outputs**
+* **Graphical outputs**
   
-  * Trend plot with Kendall's statistics for TZB and MS
+  1. Trend plot with Kendall's statistics for TZB and MS
   
-  * Trend plot for lower CuSum
+  2. Trend plot for lower CuSum
   
-  * MSTS plot
+  3. MSTS plot
   
 ___
 
