@@ -15,7 +15,7 @@ ___
 ##### **1. 'MSTS_addPar.txt'**
 
 | Column name | Variable type | Description |
-|  :----  |  :---  |  :--------- |
+|  :-----  |  :---  |  :-------- |
 | HELCOM_subbasin | Character | name of a subbasin (assessment unit) of the Baltic Sea [as defined in HELCOM](https://gis.ices.dk/geonetwork/srv/api/records/225df9db-bfdf-4388-8ccb-fa4b99053a36) |
 | RefFISH | Character | reference period defined based on expert opinion and Weight-At-Age or other herring/sprat feeding condition indices. year_from:year_to |
 | RefCHL | Character | reference period defined based on expert opinion and chlorophyll-a, Secchi depth or other eutrophication proxy. year_from:year_to |
@@ -32,7 +32,7 @@ ___
 Provides information on assessment units idetified as 'input' in Hist_data_source column in 'MSTS_addPar.txt'. No missing data are allowed in timeseries. If NA's are present an estimate must be provided before running the script!
 
 | Column name | Variable type | Description |
-|  :----  |  :---  |  :--------- |
+|  :-----  |  :---  |  :-------- |
 | year | Numeric | year |
 | HELCOM_subbasin | Character | name of a subbasin (assessment unit) of the Baltic Sea [as defined in HELCOM](https://gis.ices.dk/geonetwork/srv/api/records/225df9db-bfdf-4388-8ccb-fa4b99053a36) |
 | ICES_area | Character | name of a subbasin of the Baltic Sea [as defined in ICES](https://gis.ices.dk/geonetwork/srv/eng/catalog.search#/metadata/c784a0a3-752f-4b50-b02f-f225f6c815eb) |
@@ -49,7 +49,7 @@ Provides information on assessment units idetified as 'input' in Hist_data_sourc
 Redundant if only MSTS-relevant species are included in data, i.e., without predatory cladocerans and meroplankton). Includes all variations of zp taxa reported to ICES.
 
 | Column name | Variable type | Description |
-|  :----  |  :---  |  :--------- |
+|  :-----  |  :---  |  :-------- |
 | SPECI | Character | Taxon code as reported to ICES |
 | SPECI_name | Character | Taxon name as reported to ICES |
 | AphiaID | Numeric | AphiaID as defined in [WoRMS](https://www.marinespecies.org/) |
@@ -63,7 +63,7 @@ Redundant if only MSTS-relevant species are included in data, i.e., without pred
 Information relevant for data aggregation (if necesaray). It defines stations (STATN) to be included in the MSTS calculations.
 
 | Column name | Variable type | Description |
-|  :----  |  :---  |  :--------- |
+|  :-----  |  :---  |  :-------- |
 | HELCOM_subbasin | Character | name of a subbasin (assessment unit) of the Baltic Sea [as defined in HELCOM](https://gis.ices.dk/geonetwork/srv/api/records/225df9db-bfdf-4388-8ccb-fa4b99053a36) |
 | STATN | Character | station name as reported to ICES DOME |
 | MSTS_calc | Logical | describing whether Station is used for calculations of MSTS threshold values (1 - yes; 0- no) |
